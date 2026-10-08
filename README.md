@@ -1,15 +1,15 @@
-# CART-Ax
+# CARS
 
-**Continuous Analysis of Ranking Transitions for Approximate Adders**
+**Certified Approximate-Adder Ranking and Selection under Continuous Input Distribution Shifts**
 
-CART-Ax is the open-source implementation of a certified, exact analysis of how
+CARS is the open-source implementation of a certified, exact analysis of how
 the error-metric ranking of approximate adders changes as the *input
 distribution itself* changes continuously.
 
 The companion project **REMV-Ax** established *pointwise exact* error-rate (ER)
 and mean-error-distance (MED) verification: for a fixed factorized per-bit
 Bernoulli product distribution, the exact ER/MED of an approximate adder is
-computed by knowledge compilation (d-DNNF via `d4` + exact reweighting). CART-Ax
+computed by knowledge compilation (d-DNNF via `d4` + exact reweighting). CARS
 goes one step further: instead of evaluating one distribution at a time, it
 proves *where and how often the ranking of adder designs flips* along a
 continuous family of distributions.
@@ -43,7 +43,7 @@ margin
 ```
 
 is an exact polynomial in `λ`, and the *ranking transitions* of the pair are
-exactly the roots of `Δ_AB` inside `(0, 1)`. CART-Ax isolates those roots with
+exactly the roots of `Δ_AB` inside `(0, 1)`. CARS isolates those roots with
 certified exact arithmetic (Sturm sequences via `sympy`), classifies them
 (crossing vs. touching), merges shared roots across pairs with exact
 gcd/interval logic, and derives per-path "family regimes": maximal `λ`
@@ -82,7 +82,7 @@ hints.
 ## 3. Repository Structure
 
 ```
-CART-Ax/
+CARS/
 ├── README.md
 ├── LICENSE                     MIT (original code; see §9/§13 for benchmarks)
 ├── requirements.txt
@@ -95,7 +95,7 @@ CART-Ax/
 │   ├── configs/                frozen protocol + manifests + distribution configs
 │   ├── ground_truth/           REMV-Ax final parsed results (exact reference values)
 │   ├── results/                REMV-Ax v2 authoritative result tables
-│   └── theory_probe/           Phase-1 theory probes (CART-Ax core algorithm):
+│   └── theory_probe/           Phase-1 theory probes (CARS core algorithm):
 │       ├── tp1_poly.py         exact path-polynomial construction + root isolation
 │       ├── tp2_cnf.py          CNF construction from miter BLIFs (pure Python)
 │       ├── tp2_eval.py         exact d-DNNF polynomial evaluator
@@ -149,8 +149,8 @@ pipeline (all frozen results are already committed):
 ## 5. Installation
 
 ```bash
-git clone https://github.com/qmkkk/CART-Ax.git
-cd CART-Ax
+git clone https://github.com/qmkkk/CARS.git
+cd CARS
 python -m venv .venv
 # Windows: .venv\Scripts\activate ; Linux/macOS: source .venv/bin/activate
 pip install -r requirements.txt
@@ -376,11 +376,11 @@ This repository accompanies a manuscript that is **not yet published**.
 Until a DOI/venue exists, please cite the repository itself:
 
 ```bibtex
-@misc{CARTAx2026,
-  title  = {{CART-Ax}: Continuous Analysis of Ranking Transitions for Approximate Adders},
-  author = {CART-Ax contributors},
+@misc{CARS2026,
+  title  = {{CARS}: Certified Approximate-Adder Ranking and Selection under Continuous Input Distribution Shifts},
+  author = {CARS contributors},
   year   = {2026},
-  howpublished = {\url{https://github.com/qmkkk/CART-Ax}},
+  howpublished = {\url{https://github.com/qmkkk/CARS}},
   note   = {Software release; paper forthcoming. Update this entry with the
             DOI and venue once the manuscript is published.}
 }
