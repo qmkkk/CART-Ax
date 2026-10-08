@@ -1,0 +1,8 @@
+{
+  "job_id": "w64_poly_8_add64_err_0.0155334_size_581_depth_22_D0D3",
+  "status": "DONE",
+  "ts": "2026-10-07 16:08:07",
+  "runtime_s": 6.51,
+  "result_sha256": "aa38d25435755e7a0acaaa8ec7301f9e2f15b6c4a39f4140a274f74a53a9f9bd",
+  "result_path": "formal/results/w64_poly_8_add64_err_0.0155334_size_581_depth_22_D0D3.json"
+}

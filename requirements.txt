@@ -1,0 +1,13 @@
+# CART-Ax — Python runtime dependencies
+#
+# The correctness-critical paths use only exact rational arithmetic
+# (fractions.Fraction) plus sympy for certified polynomial root isolation.
+#
+#   sympy      -> exact real-root isolation (Sturm), polynomial arithmetic
+#   numpy      -> optional; float localization used ONLY as a performance hint
+#                 for high-degree 64-bit root isolation (never in correctness paths)
+#   matplotlib -> optional; required only to re-render paper figures
+#                 (paper_material/figures/make_plots.py)
+
+sympy>=1.13
+numpy>=2.0

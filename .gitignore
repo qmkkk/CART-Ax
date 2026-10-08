@@ -1,0 +1,38 @@
+# ---- IDE / OS ----
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ---- Local scratch, staging and build artifacts (kept out of the repository) ----
+tools_tmp/
+clean_bundle/
+
+# ---- Regenerable formal-pipeline intermediates (d4 compilation outputs) ----
+# NNF/CNF banks for the 16/32/64-bit campaign are re-generated from the miter
+# BLIFs in formal/assets/ with d4 (see README "Reproducing the Experiments").
+formal/nnf/
+
+# ---- Large packaging archives (published via GitHub Releases with SHA256) ----
+paper_project_4_formal_final_clean_bundle_v2.zip
+reference_from_REMV_Ax/C7_clean_release_bundle_20261004_v2.zip
+
+# ---- Companion manuscript (REMV-Ax, submitted/forthcoming): not redistributed ----
+REMV-Ax.pdf
+
+# ---- Regenerable probe/test outputs (frozen inputs are committed) ----
+experiments/theory_probe/tp1_results.json
+experiments/theory_probe/tp2_compare.json
+experiments/theory_probe/tp2_family_crosscheck.json
+experiments/theory_probe/tp2_round2_results.json
+experiments/theory_probe/tp2_verify_results.json
+experiments/theory_probe/tp_smoke_results.json
+experiments/theory_probe/tp_synth_results.json

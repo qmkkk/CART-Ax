@@ -1,0 +1,65 @@
+{
+  "metric": "ER",
+  "n_designs": 10,
+  "n_pairs": 45,
+  "n_transition_pairs": 0,
+  "n_distinct_transition_points": 0,
+  "distinct_transition_points": [],
+  "distinct_transition_info": [],
+  "sort_stats": {
+    "refines": 0,
+    "gcd_equal_checks": 0,
+    "exact_fallback": 0,
+    "close_pairs": 0,
+    "sort_passes": 1
+  },
+  "touching_points": {},
+  "n_touching_points": 0,
+  "endpoint_roots": {},
+  "multi_flip_pairs": [],
+  "n_stable_intervals": 1,
+  "regimes": [
+    {
+      "interval": [
+        "0",
+        "1"
+      ],
+      "test_lambda": "1/2",
+      "ranking": [
+        [
+          "1_add16_err_0.00215149_size_143_depth_16"
+        ],
+        [
+          "2_add16_err_0.0311737_size_138_depth_13"
+        ],
+        [
+          "3_add16_err_0.0585022_size_127_depth_13"
+        ],
+        [
+          "4_add16_err_0.125626_size_123_depth_13"
+        ],
+        [
+          "5_add16_err_0.204422_size_119_depth_13"
+        ],
+        [
+          "6_add16_err_0.298309_size_116_depth_13"
+        ],
+        [
+          "7_add16_err_0.386383_size_113_depth_13"
+        ],
+        [
+          "8_add16_err_0.458023_size_110_depth_13"
+        ],
+        [
+          "9_add16_err_0.507919_size_108_depth_13"
+        ],
+        [
+          "10_add16_err_0.566452_size_105_depth_13"
+        ]
+      ],
+      "n_tie_groups": 10
+    }
+  ],
+  "t_total_s": 19.27,
+  "runtime_s": 19.267
+}

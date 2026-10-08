@@ -1,0 +1,9 @@
+{
+  "design": "5_add32_err_0.0593414_size_282_depth_17",
+  "kind": "med_7",
+  "width": 32,
+  "const_skip": true,
+  "compile_s": 0.0,
+  "d4_status": "const_skip",
+  "runtime_s": 0.01
+}

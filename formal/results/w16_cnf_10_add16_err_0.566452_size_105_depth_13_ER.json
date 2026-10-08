@@ -1,0 +1,10 @@
+{
+  "design": "10_add16_err_0.566452_size_105_depth_13",
+  "kind": "ER",
+  "width": 16,
+  "compile_s": 0.0,
+  "d4_status": "cached",
+  "nnf_bytes": 16041,
+  "nnf_sha256": "b99dd1486f5ecdbe5829aaeca2e7acaf25d03edfed9bf96b0c59b068d9a75e37",
+  "runtime_s": 0.0
+}

@@ -1,0 +1,10 @@
+{
+  "design": "4_add32_err_0.0318451_size_286_depth_17",
+  "kind": "med_16",
+  "width": 32,
+  "compile_s": 0.356,
+  "d4_status": "s 35888059530608640",
+  "nnf_bytes": 5764,
+  "nnf_sha256": "baee51047513d2be8b22618b0ae4c7b0c1f788d74c3f58739c49a040d8ade7f2",
+  "runtime_s": 0.359
+}

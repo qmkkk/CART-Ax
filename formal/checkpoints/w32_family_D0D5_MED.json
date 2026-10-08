@@ -1,0 +1,8 @@
+{
+  "job_id": "w32_family_D0D5_MED",
+  "status": "DONE",
+  "ts": "2026-10-07 21:20:35",
+  "runtime_s": 37.933,
+  "result_sha256": "9e48410710a57b8a98cbb6451cb5df02049b9ec9bd182929b6ea914d0819c29b",
+  "result_path": "formal/results/w32_family_D0D5_MED.json"
+}

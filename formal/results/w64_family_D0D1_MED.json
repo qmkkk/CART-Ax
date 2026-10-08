@@ -1,0 +1,105 @@
+{
+  "metric": "MED",
+  "n_designs": 10,
+  "n_pairs": 45,
+  "n_transition_pairs": 0,
+  "n_distinct_transition_points": 0,
+  "distinct_transition_points": [],
+  "distinct_transition_info": [],
+  "sort_stats": {
+    "refines": 0,
+    "gcd_equal_checks": 0,
+    "exact_fallback": 0,
+    "close_pairs": 0,
+    "sort_passes": 1
+  },
+  "touching_points": {},
+  "n_touching_points": 0,
+  "endpoint_roots": {
+    "10_add64_err_0.0665131_size_574_depth_22|11_add64_err_0.0929413_size_571_depth_22": [
+      "0"
+    ],
+    "10_add64_err_0.0665131_size_574_depth_22|7_add64_err_0.0100861_size_585_depth_22": [
+      "0"
+    ],
+    "11_add64_err_0.0929413_size_571_depth_22|7_add64_err_0.0100861_size_585_depth_22": [
+      "0"
+    ],
+    "2_add64_err_1.52588e-05_size_616_depth_22|3_add64_err_0.00190735_size_612_depth_22": [
+      "0"
+    ],
+    "2_add64_err_1.52588e-05_size_616_depth_22|4_add64_err_0.00386047_size_605_depth_22": [
+      "0"
+    ],
+    "2_add64_err_1.52588e-05_size_616_depth_22|5_add64_err_0.0058136_size_596_depth_22": [
+      "0"
+    ],
+    "2_add64_err_1.52588e-05_size_616_depth_22|6_add64_err_0.00787354_size_594_depth_22": [
+      "0"
+    ],
+    "3_add64_err_0.00190735_size_612_depth_22|4_add64_err_0.00386047_size_605_depth_22": [
+      "0"
+    ],
+    "3_add64_err_0.00190735_size_612_depth_22|5_add64_err_0.0058136_size_596_depth_22": [
+      "0"
+    ],
+    "3_add64_err_0.00190735_size_612_depth_22|6_add64_err_0.00787354_size_594_depth_22": [
+      "0"
+    ],
+    "4_add64_err_0.00386047_size_605_depth_22|5_add64_err_0.0058136_size_596_depth_22": [
+      "0"
+    ],
+    "4_add64_err_0.00386047_size_605_depth_22|6_add64_err_0.00787354_size_594_depth_22": [
+      "0"
+    ],
+    "5_add64_err_0.0058136_size_596_depth_22|6_add64_err_0.00787354_size_594_depth_22": [
+      "0"
+    ]
+  },
+  "multi_flip_pairs": [],
+  "n_stable_intervals": 1,
+  "regimes": [
+    {
+      "interval": [
+        "0",
+        "1"
+      ],
+      "test_lambda": "1/2",
+      "ranking": [
+        [
+          "1_add64_err_0_size_630_depth_22"
+        ],
+        [
+          "2_add64_err_1.52588e-05_size_616_depth_22"
+        ],
+        [
+          "3_add64_err_0.00190735_size_612_depth_22"
+        ],
+        [
+          "4_add64_err_0.00386047_size_605_depth_22"
+        ],
+        [
+          "5_add64_err_0.0058136_size_596_depth_22"
+        ],
+        [
+          "6_add64_err_0.00787354_size_594_depth_22"
+        ],
+        [
+          "7_add64_err_0.0100861_size_585_depth_22"
+        ],
+        [
+          "10_add64_err_0.0665131_size_574_depth_22"
+        ],
+        [
+          "11_add64_err_0.0929413_size_571_depth_22"
+        ],
+        [
+          "8_add64_err_0.0155334_size_581_depth_22"
+        ]
+      ],
+      "n_tie_groups": 10
+    }
+  ],
+  "t_total_s": 59.49,
+  "runtime_s": 59.491
+}

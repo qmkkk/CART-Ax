@@ -1,0 +1,9 @@
+{
+  "design": "6_add16_err_0.298309_size_116_depth_13",
+  "kind": "med_13",
+  "width": 16,
+  "const_skip": true,
+  "compile_s": 0.0,
+  "d4_status": "const_skip",
+  "runtime_s": 0.019
+}

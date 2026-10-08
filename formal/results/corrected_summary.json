@@ -1,0 +1,114 @@
+{
+  "endpoint_tie_pairs": {
+    "16": 6,
+    "32": 7,
+    "64": 13
+  },
+  "stable_interval_totals": {
+    "16": 77,
+    "32": 40,
+    "64": 41
+  },
+  "transition_totals": {
+    "16": 65,
+    "32": 27,
+    "64": 19
+  },
+  "identical_pairs": {
+    "16": 0,
+    "32": 0,
+    "64": 0
+  },
+  "top1_switching": {
+    "16": [
+      {
+        "path": "Rnew",
+        "metric": "MED",
+        "seq": [
+          "1_add16_err_0.00215149_size_143_depth_16",
+          "1_add16_err_0.00215149_size_143_depth_16",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13"
+        ],
+        "switch_at": [
+          2
+        ]
+      }
+    ],
+    "32": [
+      {
+        "path": "Rnew",
+        "metric": "MED",
+        "seq": [
+          "1_add32_err_0_size_310_depth_20",
+          "3_add32_err_0.00389099_size_290_depth_17",
+          "1_add32_err_0_size_310_depth_20",
+          "1_add32_err_0_size_310_depth_20"
+        ],
+        "switch_at": [
+          1,
+          2
+        ]
+      }
+    ],
+    "64": []
+  },
+  "family_rows": {},
+  "stable_intervals_by_metric": {
+    "16": {
+      "ER": 6,
+      "MED": 71
+    },
+    "32": {
+      "ER": 18,
+      "MED": 22
+    },
+    "64": {
+      "ER": 7,
+      "MED": 34
+    }
+  },
+  "transitions_by_metric": {
+    "16": {
+      "ER": 0,
+      "MED": 65
+    },
+    "32": {
+      "ER": 12,
+      "MED": 15
+    },
+    "64": {
+      "ER": 1,
+      "MED": 18
+    }
+  },
+  "distinct_points_totals": {
+    "16": {
+      "ER": 0,
+      "MED": 65
+    },
+    "32": {
+      "ER": 12,
+      "MED": 16
+    },
+    "64": {
+      "ER": 1,
+      "MED": 28
+    }
+  },
+  "multi_flip_totals": {
+    "16": 0,
+    "32": 1,
+    "64": 10
+  }
+}

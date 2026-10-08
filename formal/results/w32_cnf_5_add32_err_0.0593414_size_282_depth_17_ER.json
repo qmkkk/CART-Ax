@@ -1,0 +1,10 @@
+{
+  "design": "5_add32_err_0.0593414_size_282_depth_17",
+  "kind": "ER",
+  "width": 32,
+  "compile_s": 0.643,
+  "d4_status": "s 1116751970099527680",
+  "nnf_bytes": 27582,
+  "nnf_sha256": "0fef9aa74c50528b19e878afc02a06ccfefefd3dc5b13e1c57da5535e402ff81",
+  "runtime_s": 0.731
+}

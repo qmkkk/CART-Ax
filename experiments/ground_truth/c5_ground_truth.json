@@ -1,0 +1,626 @@
+{
+  "scope": "10 small 8-bit circuits x 6 distributions; exhaustive Fraction enumeration of the official VACSEM miters vs Ganak exact projected-WMC",
+  "all_match": true,
+  "results": {
+    "1_add8_err_0.0299377_size_63_depth_12": {
+      "id": "1_add8_err_0.0299377_size_63_depth_12",
+      "family": "add8",
+      "output_bits": 9,
+      "n_pi": 16,
+      "distributions": {
+        "D0": {
+          "er_exhaustive": "15/512",
+          "er_ganak": "15/512",
+          "er_match": true,
+          "med_exhaustive": "15/2",
+          "med_ganak": "15/2",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.447
+        },
+        "D1": {
+          "er_exhaustive": "65043/33554432",
+          "er_ganak": "65043/33554432",
+          "er_match": true,
+          "med_exhaustive": "65043/131072",
+          "med_ganak": "65043/131072",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.084
+        },
+        "D2": {
+          "er_exhaustive": "585387/33554432",
+          "er_ganak": "585387/33554432",
+          "er_match": true,
+          "med_exhaustive": "585387/131072",
+          "med_ganak": "585387/131072",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.155
+        },
+        "D3": {
+          "er_exhaustive": "443475/33554432",
+          "er_ganak": "443475/33554432",
+          "er_match": true,
+          "med_exhaustive": "443475/131072",
+          "med_ganak": "443475/131072",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.086
+        },
+        "D4": {
+          "er_exhaustive": "2169375/33554432",
+          "er_ganak": "2169375/33554432",
+          "er_match": true,
+          "med_exhaustive": "2169375/131072",
+          "med_ganak": "2169375/131072",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.358
+        },
+        "D5": {
+          "er_exhaustive": "2169375/33554432",
+          "er_ganak": "2169375/33554432",
+          "er_match": true,
+          "med_exhaustive": "2169375/131072",
+          "med_ganak": "2169375/131072",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.789
+        }
+      }
+    },
+    "2_add8_err_0.11734_size_59_depth_10": {
+      "id": "2_add8_err_0.11734_size_59_depth_10",
+      "family": "add8",
+      "output_bits": 9,
+      "n_pi": 16,
+      "distributions": {
+        "D0": {
+          "er_exhaustive": "15/128",
+          "er_ganak": "15/128",
+          "er_match": true,
+          "med_exhaustive": "15/2",
+          "med_ganak": "15/2",
+          "med_match": true,
+          "er_ganak_runtime_s": 1.418
+        },
+        "D1": {
+          "er_exhaustive": "7227/524288",
+          "er_ganak": "7227/524288",
+          "er_match": true,
+          "med_exhaustive": "7227/8192",
+          "med_ganak": "7227/8192",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.372
+        },
+        "D2": {
+          "er_exhaustive": "65043/524288",
+          "er_ganak": "65043/524288",
+          "er_match": true,
+          "med_exhaustive": "65043/8192",
+          "med_ganak": "65043/8192",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.842
+        },
+        "D3": {
+          "er_exhaustive": "49275/524288",
+          "er_ganak": "49275/524288",
+          "er_match": true,
+          "med_exhaustive": "49275/8192",
+          "med_ganak": "49275/8192",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.265
+        },
+        "D4": {
+          "er_exhaustive": "86775/524288",
+          "er_ganak": "86775/524288",
+          "er_match": true,
+          "med_exhaustive": "86775/8192",
+          "med_ganak": "86775/8192",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.211
+        },
+        "D5": {
+          "er_exhaustive": "86775/524288",
+          "er_ganak": "86775/524288",
+          "er_match": true,
+          "med_exhaustive": "86775/8192",
+          "med_ganak": "86775/8192",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.183
+        }
+      }
+    },
+    "3_add8_err_0.188568_size_56_depth_8": {
+      "id": "3_add8_err_0.188568_size_56_depth_8",
+      "family": "add8",
+      "output_bits": 9,
+      "n_pi": 16,
+      "distributions": {
+        "D0": {
+          "er_exhaustive": "3/16",
+          "er_ganak": "3/16",
+          "er_match": true,
+          "med_exhaustive": "15/2",
+          "med_ganak": "15/2",
+          "med_match": true,
+          "er_ganak_runtime_s": 1.057
+        },
+        "D1": {
+          "er_exhaustive": "99/4096",
+          "er_ganak": "99/4096",
+          "er_match": true,
+          "med_exhaustive": "495/512",
+          "med_ganak": "495/512",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.233
+        },
+        "D2": {
+          "er_exhaustive": "891/4096",
+          "er_ganak": "891/4096",
+          "er_match": true,
+          "med_exhaustive": "4455/512",
+          "med_ganak": "4455/512",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.161
+        },
+        "D3": {
+          "er_exhaustive": "675/4096",
+          "er_ganak": "675/4096",
+          "er_match": true,
+          "med_exhaustive": "3375/512",
+          "med_ganak": "3375/512",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.119
+        },
+        "D4": {
+          "er_exhaustive": "975/4096",
+          "er_ganak": "975/4096",
+          "er_match": true,
+          "med_exhaustive": "4875/512",
+          "med_ganak": "4875/512",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.132
+        },
+        "D5": {
+          "er_exhaustive": "975/4096",
+          "er_ganak": "975/4096",
+          "er_match": true,
+          "med_exhaustive": "4875/512",
+          "med_ganak": "4875/512",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.205
+        }
+      }
+    },
+    "4_add8_err_0.269669_size_53_depth_7": {
+      "id": "4_add8_err_0.269669_size_53_depth_7",
+      "family": "add8",
+      "output_bits": 9,
+      "n_pi": 16,
+      "distributions": {
+        "D0": {
+          "er_exhaustive": "69/256",
+          "er_ganak": "69/256",
+          "er_match": true,
+          "med_exhaustive": "29/4",
+          "med_ganak": "29/4",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.63
+        },
+        "D1": {
+          "er_exhaustive": "46167/1048576",
+          "er_ganak": "46167/1048576",
+          "er_match": true,
+          "med_exhaustive": "123/128",
+          "med_ganak": "123/128",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.254
+        },
+        "D2": {
+          "er_exhaustive": "394119/1048576",
+          "er_ganak": "394119/1048576",
+          "er_match": true,
+          "med_exhaustive": "1107/128",
+          "med_ganak": "1107/128",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.213
+        },
+        "D3": {
+          "er_exhaustive": "191895/1048576",
+          "er_ganak": "191895/1048576",
+          "er_match": true,
+          "med_exhaustive": "843/128",
+          "med_ganak": "843/128",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.423
+        },
+        "D4": {
+          "er_exhaustive": "309855/1048576",
+          "er_ganak": "309855/1048576",
+          "er_match": true,
+          "med_exhaustive": "1155/128",
+          "med_ganak": "1155/128",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.372
+        },
+        "D5": {
+          "er_exhaustive": "309855/1048576",
+          "er_ganak": "309855/1048576",
+          "er_match": true,
+          "med_exhaustive": "1155/128",
+          "med_ganak": "1155/128",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.573
+        }
+      }
+    },
+    "5_add8_err_0.325058_size_50_depth_7": {
+      "id": "5_add8_err_0.325058_size_50_depth_7",
+      "family": "add8",
+      "output_bits": 9,
+      "n_pi": 16,
+      "distributions": {
+        "D0": {
+          "er_exhaustive": "83/256",
+          "er_ganak": "83/256",
+          "er_match": true,
+          "med_exhaustive": "27/4",
+          "med_ganak": "27/4",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.774
+        },
+        "D1": {
+          "er_exhaustive": "61311/1048576",
+          "er_ganak": "61311/1048576",
+          "er_match": true,
+          "med_exhaustive": "117/128",
+          "med_ganak": "117/128",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.276
+        },
+        "D2": {
+          "er_exhaustive": "514863/1048576",
+          "er_ganak": "514863/1048576",
+          "er_match": true,
+          "med_exhaustive": "1053/128",
+          "med_ganak": "1053/128",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.202
+        },
+        "D3": {
+          "er_exhaustive": "312639/1048576",
+          "er_ganak": "312639/1048576",
+          "er_match": true,
+          "med_exhaustive": "789/128",
+          "med_ganak": "789/128",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.118
+        },
+        "D4": {
+          "er_exhaustive": "346935/1048576",
+          "er_ganak": "346935/1048576",
+          "er_match": true,
+          "med_exhaustive": "1065/128",
+          "med_ganak": "1065/128",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.157
+        },
+        "D5": {
+          "er_exhaustive": "346935/1048576",
+          "er_ganak": "346935/1048576",
+          "er_match": true,
+          "med_exhaustive": "1065/128",
+          "med_ganak": "1065/128",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.127
+        }
+      }
+    },
+    "10_mult8_err_0.0891418_size_420_depth_26": {
+      "id": "10_mult8_err_0.0891418_size_420_depth_26",
+      "family": "mult8",
+      "output_bits": 16,
+      "n_pi": 16,
+      "distributions": {
+        "D0": {
+          "er_exhaustive": "45/512",
+          "er_ganak": "45/512",
+          "er_match": true,
+          "med_exhaustive": "13/2",
+          "med_ganak": "13/2",
+          "med_match": true,
+          "er_ganak_runtime_s": 4.469
+        },
+        "D1": {
+          "er_exhaustive": "4354061/536870912",
+          "er_ganak": "4354061/536870912",
+          "er_match": true,
+          "med_exhaustive": "1289327/2097152",
+          "med_ganak": "1289327/2097152",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.958
+        },
+        "D2": {
+          "er_exhaustive": "206432793/536870912",
+          "er_ganak": "206432793/536870912",
+          "er_match": true,
+          "med_exhaustive": "54167535/2097152",
+          "med_ganak": "54167535/2097152",
+          "med_match": true,
+          "er_ganak_runtime_s": 1.292
+        },
+        "D3": {
+          "er_exhaustive": "40425705/536870912",
+          "er_ganak": "40425705/536870912",
+          "er_match": true,
+          "med_exhaustive": "13702077/2097152",
+          "med_ganak": "13702077/2097152",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.794
+        },
+        "D4": {
+          "er_exhaustive": "20723553/536870912",
+          "er_ganak": "20723553/536870912",
+          "er_match": true,
+          "med_exhaustive": "6207543/2097152",
+          "med_ganak": "6207543/2097152",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.823
+        },
+        "D5": {
+          "er_exhaustive": "21229317/536870912",
+          "er_ganak": "21229317/536870912",
+          "er_match": true,
+          "med_exhaustive": "6257439/2097152",
+          "med_ganak": "6257439/2097152",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.952
+        }
+      }
+    },
+    "1_mult8_err_0.00114441_size_450_depth_27": {
+      "id": "1_mult8_err_0.00114441_size_450_depth_27",
+      "family": "mult8",
+      "output_bits": 16,
+      "n_pi": 16,
+      "distributions": {
+        "D0": {
+          "er_exhaustive": "1/1024",
+          "er_ganak": "1/1024",
+          "er_match": true,
+          "med_exhaustive": "1/4",
+          "med_ganak": "1/4",
+          "med_match": true,
+          "er_ganak_runtime_s": 3.191
+        },
+        "D1": {
+          "er_exhaustive": "64573/1073741824",
+          "er_ganak": "64573/1073741824",
+          "er_match": true,
+          "med_exhaustive": "64573/4194304",
+          "med_ganak": "64573/4194304",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.336
+        },
+        "D2": {
+          "er_exhaustive": "14764437/1073741824",
+          "er_ganak": "14764437/1073741824",
+          "er_match": true,
+          "med_exhaustive": "14764437/4194304",
+          "med_ganak": "14764437/4194304",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.175
+        },
+        "D3": {
+          "er_exhaustive": "527877/1073741824",
+          "er_ganak": "527877/1073741824",
+          "er_match": true,
+          "med_exhaustive": "527877/4194304",
+          "med_ganak": "527877/4194304",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.3
+        },
+        "D4": {
+          "er_exhaustive": "372033/1073741824",
+          "er_ganak": "372033/1073741824",
+          "er_match": true,
+          "med_exhaustive": "372033/4194304",
+          "med_ganak": "372033/4194304",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.282
+        },
+        "D5": {
+          "er_exhaustive": "372033/1073741824",
+          "er_ganak": "372033/1073741824",
+          "er_match": true,
+          "med_exhaustive": "372033/4194304",
+          "med_ganak": "372033/4194304",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.418
+        }
+      }
+    },
+    "2_mult8_err_0.00216675_size_445_depth_27": {
+      "id": "2_mult8_err_0.00216675_size_445_depth_27",
+      "family": "mult8",
+      "output_bits": 16,
+      "n_pi": 16,
+      "distributions": {
+        "D0": {
+          "er_exhaustive": "1/512",
+          "er_ganak": "1/512",
+          "er_match": true,
+          "med_exhaustive": "1/8",
+          "med_ganak": "1/8",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.631
+        },
+        "D1": {
+          "er_exhaustive": "9493/67108864",
+          "er_ganak": "9493/67108864",
+          "er_match": true,
+          "med_exhaustive": "9493/1048576",
+          "med_ganak": "9493/1048576",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.44
+        },
+        "D2": {
+          "er_exhaustive": "1619109/67108864",
+          "er_ganak": "1619109/67108864",
+          "er_match": true,
+          "med_exhaustive": "1619109/1048576",
+          "med_ganak": "1619109/1048576",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.434
+        },
+        "D3": {
+          "er_exhaustive": "82701/67108864",
+          "er_ganak": "82701/67108864",
+          "er_match": true,
+          "med_exhaustive": "82701/1048576",
+          "med_ganak": "82701/1048576",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.397
+        },
+        "D4": {
+          "er_exhaustive": "43011/67108864",
+          "er_ganak": "43011/67108864",
+          "er_match": true,
+          "med_exhaustive": "43011/1048576",
+          "med_ganak": "43011/1048576",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.635
+        },
+        "D5": {
+          "er_exhaustive": "43011/67108864",
+          "er_ganak": "43011/67108864",
+          "er_match": true,
+          "med_exhaustive": "43011/1048576",
+          "med_ganak": "43011/1048576",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.332
+        }
+      }
+    },
+    "3_mult8_err_0.00396729_size_443_depth_27": {
+      "id": "3_mult8_err_0.00396729_size_443_depth_27",
+      "family": "mult8",
+      "output_bits": 16,
+      "n_pi": 16,
+      "distributions": {
+        "D0": {
+          "er_exhaustive": "1/256",
+          "er_ganak": "1/256",
+          "er_match": true,
+          "med_exhaustive": "1/4",
+          "med_ganak": "1/4",
+          "med_match": true,
+          "er_ganak_runtime_s": 3.585
+        },
+        "D1": {
+          "er_exhaustive": "961/4194304",
+          "er_ganak": "961/4194304",
+          "er_match": true,
+          "med_exhaustive": "961/65536",
+          "med_ganak": "961/65536",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.388
+        },
+        "D2": {
+          "er_exhaustive": "175689/4194304",
+          "er_ganak": "175689/4194304",
+          "er_match": true,
+          "med_exhaustive": "175689/65536",
+          "med_ganak": "175689/65536",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.313
+        },
+        "D3": {
+          "er_exhaustive": "9153/4194304",
+          "er_ganak": "9153/4194304",
+          "er_match": true,
+          "med_exhaustive": "9153/65536",
+          "med_ganak": "9153/65536",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.222
+        },
+        "D4": {
+          "er_exhaustive": "6237/4194304",
+          "er_ganak": "6237/4194304",
+          "er_match": true,
+          "med_exhaustive": "6237/65536",
+          "med_ganak": "6237/65536",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.314
+        },
+        "D5": {
+          "er_exhaustive": "6237/4194304",
+          "er_ganak": "6237/4194304",
+          "er_match": true,
+          "med_exhaustive": "6237/65536",
+          "med_ganak": "6237/65536",
+          "med_match": true,
+          "er_ganak_runtime_s": 0.368
+        }
+      }
+    },
+    "4_mult8_err_0.00585938_size_441_depth_26": {
+      "id": "4_mult8_err_0.00585938_size_441_depth_26",
+      "family": "mult8",
+      "output_bits": 16,
+      "n_pi": 16,
+      "distributions": {
+        "D0": {
+          "er_exhaustive": "395/65536",
+          "er_ganak": "395/65536",
+          "er_match": true,
+          "med_exhaustive": "143/16",
+          "med_ganak": "143/16",
+          "med_match": true,
+          "er_ganak_runtime_s": 6.035
+        },
+        "D1": {
+          "er_exhaustive": "1484743/4294967296",
+          "er_ganak": "1484743/4294967296",
+          "er_match": true,
+          "med_exhaustive": "516055/1048576",
+          "med_ganak": "516055/1048576",
+          "med_match": true,
+          "er_ganak_runtime_s": 2.857
+        },
+        "D2": {
+          "er_exhaustive": "204830775/4294967296",
+          "er_ganak": "204830775/4294967296",
+          "er_match": true,
+          "med_exhaustive": "27736263/1048576",
+          "med_ganak": "27736263/1048576",
+          "med_match": true,
+          "er_ganak_runtime_s": 2.912
+        },
+        "D3": {
+          "er_exhaustive": "13467735/4294967296",
+          "er_ganak": "13467735/4294967296",
+          "er_match": true,
+          "med_exhaustive": "4241511/1048576",
+          "med_ganak": "4241511/1048576",
+          "med_match": true,
+          "er_ganak_runtime_s": 2.841
+        },
+        "D4": {
+          "er_exhaustive": "11077479/4294967296",
+          "er_ganak": "11077479/4294967296",
+          "er_match": true,
+          "med_exhaustive": "4790583/1048576",
+          "med_ganak": "4790583/1048576",
+          "med_match": true,
+          "er_ganak_runtime_s": 2.679
+        },
+        "D5": {
+          "er_exhaustive": "11096919/4294967296",
+          "er_ganak": "11096919/4294967296",
+          "er_match": true,
+          "med_exhaustive": "4810023/1048576",
+          "med_ganak": "4810023/1048576",
+          "med_match": true,
+          "er_ganak_runtime_s": 2.599
+        }
+      }
+    }
+  }
+}

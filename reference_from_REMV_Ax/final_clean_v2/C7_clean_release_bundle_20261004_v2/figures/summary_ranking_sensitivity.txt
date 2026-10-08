@@ -1,0 +1,24 @@
+Ranking sensitivity vs D0 (corrected D0-D5; Kendall tau-b / strict inversions):
+
+ER:
+  width 12 D2: tau_b=0.785714 inv=3
+  width 12 D4: tau_b=0.928571 inv=1
+  width 12 D5: tau_b=0.928571 inv=1
+  width 32 D2: tau_b=0.511111 inv=11
+  width 64 D2: tau_b=0.955556 inv=1
+
+MED:
+  width 8 D1: tau_b=0.205738 inv=7
+  width 8 D2: tau_b=0.205738 inv=7
+  width 8 D3: tau_b=0.308607 inv=6
+  width 12 D1: tau_b=0.928571 inv=1
+  width 12 D4: tau_b=0.857143 inv=2
+  width 12 D5: tau_b=0.857143 inv=2
+  width 16 D1: tau_b=0.50128 inv=9
+  width 16 D2: tau_b=0.50128 inv=9
+  width 16 D3: tau_b=0.644503 inv=6
+  width 16 D4: tau_b=0.262575 inv=14
+  width 16 D5: tau_b=0.262575 inv=14
+  width 32 D2: tau_b=0.290191 inv=13
+  width 64 D2: tau_b=0.68516 inv=3
+  width 64 D3: tau_b=0.737865 inv=2

@@ -1,0 +1,8 @@
+{
+  "job_id": "w32_family_Rnew_ER",
+  "status": "DONE",
+  "ts": "2026-10-07 21:20:55",
+  "runtime_s": 19.835,
+  "result_sha256": "8ddd0b0b0b6df38dba44eeb2fe8b5699de38e30f7b7c09ac4b8f185e8fe365aa",
+  "result_path": "formal/results/w32_family_Rnew_ER.json"
+}

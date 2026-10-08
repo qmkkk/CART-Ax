@@ -1,0 +1,10 @@
+{
+  "design": "7_add64_err_0.0100861_size_585_depth_22",
+  "kind": "ER",
+  "width": 64,
+  "compile_s": 0.0,
+  "d4_status": "cached",
+  "nnf_bytes": 530917,
+  "nnf_sha256": "dc78394c0e6d74379f6d21fe47a8d9dd754967e84f127b8dcace7c0c5905d9e7",
+  "runtime_s": 0.001
+}

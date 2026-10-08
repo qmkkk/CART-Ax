@@ -1,0 +1,8 @@
+{
+  "job_id": "w16_cnf_8_add16_err_0.458023_size_110_depth_13_med_6",
+  "status": "DONE",
+  "ts": "2026-10-07 10:32:49",
+  "runtime_s": 0.0,
+  "result_sha256": "39e973df7d156a50cd742f9d4488ec070a09f905379550780fb1e2a1861f196f",
+  "result_path": "formal/results/w16_cnf_8_add16_err_0.458023_size_110_depth_13_med_6.json"
+}

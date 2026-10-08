@@ -1,0 +1,14 @@
+{
+  "task_id": "width8__1_add8_err_0.0299377_size_63_depth_12__ER__D0",
+  "status": "PASS",
+  "distribution": "D0",
+  "ganak_value": "15/512",
+  "ganak_runtime_s": 0.138,
+  "ganak_timeout": false,
+  "ganak_internal_s": 0.0,
+  "ganak_error": "",
+  "d4_value": "15/512",
+  "d4_eval_s": 0.0002,
+  "d4_nnf_missing": false,
+  "match": true
+}

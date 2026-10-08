@@ -1,0 +1,65 @@
+{
+  "metric": "ER",
+  "n_designs": 10,
+  "n_pairs": 45,
+  "n_transition_pairs": 0,
+  "n_distinct_transition_points": 0,
+  "distinct_transition_points": [],
+  "distinct_transition_info": [],
+  "sort_stats": {
+    "refines": 0,
+    "gcd_equal_checks": 0,
+    "exact_fallback": 0,
+    "close_pairs": 0,
+    "sort_passes": 1
+  },
+  "touching_points": {},
+  "n_touching_points": 0,
+  "endpoint_roots": {},
+  "multi_flip_pairs": [],
+  "n_stable_intervals": 1,
+  "regimes": [
+    {
+      "interval": [
+        "0",
+        "1"
+      ],
+      "test_lambda": "1/2",
+      "ranking": [
+        [
+          "1_add32_err_0_size_310_depth_20"
+        ],
+        [
+          "3_add32_err_0.00389099_size_290_depth_17"
+        ],
+        [
+          "4_add32_err_0.0318451_size_286_depth_17"
+        ],
+        [
+          "5_add32_err_0.0593414_size_282_depth_17"
+        ],
+        [
+          "7_add32_err_0.114944_size_273_depth_17"
+        ],
+        [
+          "8_add32_err_0.14183_size_268_depth_17"
+        ],
+        [
+          "10_add32_err_0.197418_size_259_depth_14"
+        ],
+        [
+          "11_add32_err_0.223526_size_257_depth_14"
+        ],
+        [
+          "12_add32_err_0.25061_size_254_depth_14"
+        ],
+        [
+          "14_add32_err_0.295059_size_249_depth_14"
+        ]
+      ],
+      "n_tie_groups": 10
+    }
+  ],
+  "t_total_s": 47.86,
+  "runtime_s": 47.863
+}

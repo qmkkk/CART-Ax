@@ -1,0 +1,32 @@
+{
+  "note": "Corrected circuit-relative product distributions. D4/D5 are generated per circuit total PI count (NOT by slicing a fixed 128-vector).",
+  "formulas": {
+    "D0": "all p = 1/2",
+    "D1": "all p = 1/4",
+    "D2": "all p = 3/4",
+    "D3": "alternating p = 1/4 (even idx), 3/4 (odd idx)",
+    "D4": "first n//2 PIs p=1/4, second half p=3/4",
+    "D5": "first n//2 PIs p=3/4, second half p=1/4",
+    "R0-R9": "10 random factorized product distributions, one frozen seed-42 stream per PI width, p in {1/8,1/4,1/2,3/4,7/8}"
+  },
+  "generator": "c5_common.named_dist / c5_common.random_dists",
+  "d4_ne_d1_guard": [
+    "True",
+    "True",
+    "True",
+    "True",
+    "True",
+    "True",
+    "True"
+  ],
+  "d5_ne_d2_guard": [
+    "True",
+    "True",
+    "True",
+    "True",
+    "True",
+    "True",
+    "True"
+  ],
+  "legacy_bug": "historical DISTS[128]-slicing made D4==D1/D5==D2 for n<128 PIs; fixed before freeze; never used in the formal results"
+}

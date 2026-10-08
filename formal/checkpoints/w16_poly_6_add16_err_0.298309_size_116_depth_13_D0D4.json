@@ -1,0 +1,8 @@
+{
+  "job_id": "w16_poly_6_add16_err_0.298309_size_116_depth_13_D0D4",
+  "status": "DONE",
+  "ts": "2026-10-07 10:32:52",
+  "runtime_s": 0.113,
+  "result_sha256": "9fe9bbbf15f5d2d3c2bbe77df8208a942fa97f52d36b05cacca555fbef6a5772",
+  "result_path": "formal/results/w16_poly_6_add16_err_0.298309_size_116_depth_13_D0D4.json"
+}

@@ -1,0 +1,16 @@
+TOOL VERSIONS (final frozen set)
+- Python: 3.14.5 (Windows, project .venv; no numpy required)
+- WSL: Ubuntu 26.04.1 (WSL2), user k, 32 cores, 7.6 GiB RAM
+- GCC/G++: 15.2.0 (WSL)
+- Ganak: official v2.7.0 release binary (repo HEAD e8f5184)
+- d4: official crillab/d4 commit 333370cc1e843dd0749c1efe88516e72b5239174
+- Yosys: 0.52 (git sha1 fee39a3284c90249e1d9684cf6944ffbbcbb8f90)
+- VACSEM Circuit2Cnf: commit b11ede7 (built R5)
+- EvoApproxLib: commit ec28be83bfce1b8e8b92bd456be520d323a568b5
+- ddnnf-cleanup (audit phase C): built from ganak repo source
+- Boost 1.85 headers; GMP/zlib from official Ubuntu 26.04 debs (local, no sudo)
+- OS: Windows 11
+- timeout: 180 s (single compile / exact probe)
+- K values: 16, 64
+- random seed: 42 (one frozen stream per PI width; pool {1/8,1/4,1/2,3/4,7/8})
+- experiment date: 2026-10-03/04

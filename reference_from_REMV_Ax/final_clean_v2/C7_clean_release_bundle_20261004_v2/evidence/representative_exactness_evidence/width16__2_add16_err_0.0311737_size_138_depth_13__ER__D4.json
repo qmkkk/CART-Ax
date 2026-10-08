@@ -1,0 +1,14 @@
+{
+  "task_id": "width16__2_add16_err_0.0311737_size_138_depth_13__ER__D4",
+  "status": "PASS",
+  "distribution": "D4",
+  "ganak_value": "10241619375/137438953472",
+  "ganak_runtime_s": 0.187,
+  "ganak_timeout": false,
+  "ganak_internal_s": 0.04,
+  "ganak_error": "",
+  "d4_value": "10241619375/137438953472",
+  "d4_eval_s": 0.0018,
+  "d4_nnf_missing": false,
+  "match": true
+}

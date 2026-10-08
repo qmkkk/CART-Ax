@@ -1,0 +1,8 @@
+{
+  "job_id": "w64_family_Rnew_MED",
+  "status": "DONE",
+  "ts": "2026-10-07 21:35:24",
+  "runtime_s": 188.781,
+  "result_sha256": "36d091eb207a7eb446ca16172dbed17e7dba6a7f8c31b6139c18368b145dd0e0",
+  "result_path": "formal/results/w64_family_Rnew_MED.json"
+}

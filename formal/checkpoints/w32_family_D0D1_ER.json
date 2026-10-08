@@ -1,0 +1,8 @@
+{
+  "job_id": "w32_family_D0D1_ER",
+  "status": "DONE",
+  "ts": "2026-10-07 21:12:51",
+  "runtime_s": 59.754,
+  "result_sha256": "60d6f95a748ce59804de61e1202889e5be359ef2ffd8c7d1fb43e52e78d5cfcf",
+  "result_path": "formal/results/w32_family_D0D1_ER.json"
+}

@@ -1,0 +1,13 @@
+width,path,metric,n_designs,n_pairs,n_transition_pairs,n_distinct_transition_points,n_touching_points,n_endpoint_root_pairs,n_stable_intervals,multi_flip_pairs,n_identical_pairs,t_total_s
+32,D0D1,ER,10,45,0,0,0,0,1,[],0,59.754
+32,D0D1,MED,10,45,0,0,0,7,1,[],0,59.958
+32,D0D2,ER,10,45,11,11,0,0,12,[],0,56.248
+32,D0D2,MED,10,45,13,13,0,7,14,[],0,60.862
+32,D0D3,ER,10,45,0,0,0,0,1,[],0,63.646
+32,D0D3,MED,10,45,0,0,0,7,1,[],0,57.11
+32,D0D4,ER,10,45,0,0,0,0,1,[],0,39.092
+32,D0D4,MED,10,45,0,0,0,7,1,[],0,40.83
+32,D0D5,ER,10,45,0,0,0,0,1,[],0,47.863
+32,D0D5,MED,10,45,0,0,0,7,1,[],0,37.933
+32,Rnew,ER,10,45,1,1,0,0,2,[],0,19.835
+32,Rnew,MED,10,45,2,3,0,0,4,"[[""1_add32_err_0_size_310_depth_20"", ""3_add32_err_0.00389099_size_290_depth_17"", 2]]",0,22.228

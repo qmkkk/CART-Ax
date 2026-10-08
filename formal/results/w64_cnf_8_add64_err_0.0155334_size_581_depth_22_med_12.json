@@ -1,0 +1,9 @@
+{
+  "design": "8_add64_err_0.0155334_size_581_depth_22",
+  "kind": "med_12",
+  "width": 64,
+  "const_skip": true,
+  "compile_s": 0.0,
+  "d4_status": "const_skip",
+  "runtime_s": 0.134
+}

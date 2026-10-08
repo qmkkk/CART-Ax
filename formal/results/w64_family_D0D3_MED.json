@@ -1,0 +1,209 @@
+{
+  "metric": "MED",
+  "n_designs": 10,
+  "n_pairs": 45,
+  "n_transition_pairs": 2,
+  "n_distinct_transition_points": 2,
+  "distinct_transition_points": [
+    "1481721112777996974994761195773/3587550233849032036657662001152",
+    "1481721131163412933988261321347/3587550233849032036657662001152"
+  ],
+  "distinct_transition_info": [
+    {
+      "point": "1481721112777996974994761195773/3587550233849032036657662001152",
+      "contributing_pairs": [
+        [
+          "11_add64_err_0.0929413_size_571_depth_22",
+          "8_add64_err_0.0155334_size_581_depth_22",
+          1
+        ]
+      ]
+    },
+    {
+      "point": "1481721131163412933988261321347/3587550233849032036657662001152",
+      "contributing_pairs": [
+        [
+          "10_add64_err_0.0665131_size_574_depth_22",
+          "8_add64_err_0.0155334_size_581_depth_22",
+          1
+        ]
+      ]
+    }
+  ],
+  "sort_stats": {
+    "refines": 2,
+    "gcd_equal_checks": 2,
+    "exact_fallback": 0,
+    "close_pairs": 0,
+    "sort_passes": 3
+  },
+  "touching_points": {},
+  "n_touching_points": 0,
+  "endpoint_roots": {
+    "10_add64_err_0.0665131_size_574_depth_22|11_add64_err_0.0929413_size_571_depth_22": [
+      "0"
+    ],
+    "10_add64_err_0.0665131_size_574_depth_22|7_add64_err_0.0100861_size_585_depth_22": [
+      "0"
+    ],
+    "11_add64_err_0.0929413_size_571_depth_22|7_add64_err_0.0100861_size_585_depth_22": [
+      "0"
+    ],
+    "2_add64_err_1.52588e-05_size_616_depth_22|3_add64_err_0.00190735_size_612_depth_22": [
+      "0"
+    ],
+    "2_add64_err_1.52588e-05_size_616_depth_22|4_add64_err_0.00386047_size_605_depth_22": [
+      "0"
+    ],
+    "2_add64_err_1.52588e-05_size_616_depth_22|5_add64_err_0.0058136_size_596_depth_22": [
+      "0"
+    ],
+    "2_add64_err_1.52588e-05_size_616_depth_22|6_add64_err_0.00787354_size_594_depth_22": [
+      "0"
+    ],
+    "3_add64_err_0.00190735_size_612_depth_22|4_add64_err_0.00386047_size_605_depth_22": [
+      "0"
+    ],
+    "3_add64_err_0.00190735_size_612_depth_22|5_add64_err_0.0058136_size_596_depth_22": [
+      "0"
+    ],
+    "3_add64_err_0.00190735_size_612_depth_22|6_add64_err_0.00787354_size_594_depth_22": [
+      "0"
+    ],
+    "4_add64_err_0.00386047_size_605_depth_22|5_add64_err_0.0058136_size_596_depth_22": [
+      "0"
+    ],
+    "4_add64_err_0.00386047_size_605_depth_22|6_add64_err_0.00787354_size_594_depth_22": [
+      "0"
+    ],
+    "5_add64_err_0.0058136_size_596_depth_22|6_add64_err_0.00787354_size_594_depth_22": [
+      "0"
+    ]
+  },
+  "multi_flip_pairs": [],
+  "n_stable_intervals": 3,
+  "regimes": [
+    {
+      "interval": [
+        "0",
+        "1481721112777996974994761195773/3587550233849032036657662001152"
+      ],
+      "test_lambda": "370430278194499243748690298943/1793775116924516018328831000576",
+      "ranking": [
+        [
+          "1_add64_err_0_size_630_depth_22"
+        ],
+        [
+          "2_add64_err_1.52588e-05_size_616_depth_22"
+        ],
+        [
+          "3_add64_err_0.00190735_size_612_depth_22"
+        ],
+        [
+          "4_add64_err_0.00386047_size_605_depth_22"
+        ],
+        [
+          "5_add64_err_0.0058136_size_596_depth_22"
+        ],
+        [
+          "6_add64_err_0.00787354_size_594_depth_22"
+        ],
+        [
+          "7_add64_err_0.0100861_size_585_depth_22"
+        ],
+        [
+          "10_add64_err_0.0665131_size_574_depth_22"
+        ],
+        [
+          "11_add64_err_0.0929413_size_571_depth_22"
+        ],
+        [
+          "8_add64_err_0.0155334_size_581_depth_22"
+        ]
+      ],
+      "n_tie_groups": 10
+    },
+    {
+      "interval": [
+        "1481721112777996974994761195773/3587550233849032036657662001152",
+        "1481721131163412933988261321347/3587550233849032036657662001152"
+      ],
+      "test_lambda": "7717297510264088304643287805/18685157467963708524258656256",
+      "ranking": [
+        [
+          "1_add64_err_0_size_630_depth_22"
+        ],
+        [
+          "2_add64_err_1.52588e-05_size_616_depth_22"
+        ],
+        [
+          "3_add64_err_0.00190735_size_612_depth_22"
+        ],
+        [
+          "4_add64_err_0.00386047_size_605_depth_22"
+        ],
+        [
+          "5_add64_err_0.0058136_size_596_depth_22"
+        ],
+        [
+          "6_add64_err_0.00787354_size_594_depth_22"
+        ],
+        [
+          "7_add64_err_0.0100861_size_585_depth_22"
+        ],
+        [
+          "10_add64_err_0.0665131_size_574_depth_22"
+        ],
+        [
+          "8_add64_err_0.0155334_size_581_depth_22"
+        ],
+        [
+          "11_add64_err_0.0929413_size_571_depth_22"
+        ]
+      ],
+      "n_tie_groups": 10
+    },
+    {
+      "interval": [
+        "1481721131163412933988261321347/3587550233849032036657662001152",
+        "1"
+      ],
+      "test_lambda": "1267317841253111242661480830625/1793775116924516018328831000576",
+      "ranking": [
+        [
+          "1_add64_err_0_size_630_depth_22"
+        ],
+        [
+          "2_add64_err_1.52588e-05_size_616_depth_22"
+        ],
+        [
+          "3_add64_err_0.00190735_size_612_depth_22"
+        ],
+        [
+          "4_add64_err_0.00386047_size_605_depth_22"
+        ],
+        [
+          "5_add64_err_0.0058136_size_596_depth_22"
+        ],
+        [
+          "6_add64_err_0.00787354_size_594_depth_22"
+        ],
+        [
+          "7_add64_err_0.0100861_size_585_depth_22"
+        ],
+        [
+          "8_add64_err_0.0155334_size_581_depth_22"
+        ],
+        [
+          "10_add64_err_0.0665131_size_574_depth_22"
+        ],
+        [
+          "11_add64_err_0.0929413_size_571_depth_22"
+        ]
+      ],
+      "n_tie_groups": 10
+    }
+  ],
+  "t_total_s": 85.28,
+  "runtime_s": 85.279
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1_add8_err_0.0299377_size_63_depth_12",
+    "family": "add8",
+    "approx": "tools/cache/VACSEM/Circuit2Cnf/input/add8\\1_add8_err_0.0299377_size_63_depth_12.blif",
+    "exact": "tools/cache/VACSEM/Circuit2Cnf/input/add8\\add8.blif",
+    "output_bits": 9,
+    "n_pi": 16,
+    "set": "small"
+  },
+  {
+    "id": "2_add8_err_0.11734_size_59_depth_10",
+    "family": "add8",
+    "approx": "tools/cache/VACSEM/Circuit2Cnf/input/add8\\2_add8_err_0.11734_size_59_depth_10.blif",
+    "exact": "tools/cache/VACSEM/Circuit2Cnf/input/add8\\add8.blif",
+    "output_bits": 9,
+    "n_pi": 16,
+    "set": "small"
+  },
+  {
+    "id": "3_add8_err_0.188568_size_56_depth_8",
+    "family": "add8",
+    "approx": "tools/cache/VACSEM/Circuit2Cnf/input/add8\\3_add8_err_0.188568_size_56_depth_8.blif",
+    "exact": "tools/cache/VACSEM/Circuit2Cnf/input/add8\\add8.blif",
+    "output_bits": 9,
+    "n_pi": 16,
+    "set": "small"
+  },
+  {
+    "id": "4_add8_err_0.269669_size_53_depth_7",
+    "family": "add8",
+    "approx": "tools/cache/VACSEM/Circuit2Cnf/input/add8\\4_add8_err_0.269669_size_53_depth_7.blif",
+    "exact": "tools/cache/VACSEM/Circuit2Cnf/input/add8\\add8.blif",
+    "output_bits": 9,
+    "n_pi": 16,
+    "set": "small"
+  },
+  {
+    "id": "5_add8_err_0.325058_size_50_depth_7",
+    "family": "add8",
+    "approx": "tools/cache/VACSEM/Circuit2Cnf/input/add8\\5_add8_err_0.325058_size_50_depth_7.blif",
+    "exact": "tools/cache/VACSEM/Circuit2Cnf/input/add8\\add8.blif",
+    "output_bits": 9,
+    "n_pi": 16,
+    "set": "small"
+  },
+  {
+    "id": "10_mult8_err_0.0891418_size_420_depth_26",
+    "family": "mult8",
+    "approx": "tools/cache/VACSEM/Circuit2Cnf/input/mult8\\10_mult8_err_0.0891418_size_420_depth_26.blif",
+    "exact": "tools/cache/VACSEM/Circuit2Cnf/input/mult8\\mult8.blif",
+    "output_bits": 16,
+    "n_pi": 16,
+    "set": "small"
+  },
+  {
+    "id": "1_mult8_err_0.00114441_size_450_depth_27",
+    "family": "mult8",
+    "approx": "tools/cache/VACSEM/Circuit2Cnf/input/mult8\\1_mult8_err_0.00114441_size_450_depth_27.blif",
+    "exact": "tools/cache/VACSEM/Circuit2Cnf/input/mult8\\mult8.blif",
+    "output_bits": 16,
+    "n_pi": 16,
+    "set": "small"
+  },
+  {
+    "id": "2_mult8_err_0.00216675_size_445_depth_27",
+    "family": "mult8",
+    "approx": "tools/cache/VACSEM/Circuit2Cnf/input/mult8\\2_mult8_err_0.00216675_size_445_depth_27.blif",
+    "exact": "tools/cache/VACSEM/Circuit2Cnf/input/mult8\\mult8.blif",
+    "output_bits": 16,
+    "n_pi": 16,
+    "set": "small"
+  },
+  {
+    "id": "3_mult8_err_0.00396729_size_443_depth_27",
+    "family": "mult8",
+    "approx": "tools/cache/VACSEM/Circuit2Cnf/input/mult8\\3_mult8_err_0.00396729_size_443_depth_27.blif",
+    "exact": "tools/cache/VACSEM/Circuit2Cnf/input/mult8\\mult8.blif",
+    "output_bits": 16,
+    "n_pi": 16,
+    "set": "small"
+  },
+  {
+    "id": "4_mult8_err_0.00585938_size_441_depth_26",
+    "family": "mult8",
+    "approx": "tools/cache/VACSEM/Circuit2Cnf/input/mult8\\4_mult8_err_0.00585938_size_441_depth_26.blif",
+    "exact": "tools/cache/VACSEM/Circuit2Cnf/input/mult8\\mult8.blif",
+    "output_bits": 16,
+    "n_pi": 16,
+    "set": "small"
+  },
+  {
+    "id": "add32",
+    "family": "add32",
+    "approx": "tools/cache/VACSEM/Circuit2Cnf/input/add32\\add32.blif",
+    "exact": "tools/cache/VACSEM/Circuit2Cnf/input/add32\\add32.blif",
+    "output_bits": 33,
+    "n_pi": null,
+    "set": "scalability"
+  },
+  {
+    "id": "add64",
+    "family": "add64",
+    "approx": "tools/cache/VACSEM/Circuit2Cnf/input/add64\\add64.blif",
+    "exact": "tools/cache/VACSEM/Circuit2Cnf/input/add64\\add64.blif",
+    "output_bits": 65,
+    "n_pi": null,
+    "set": "scalability"
+  },
+  {
+    "id": "mult12",
+    "family": "mult12",
+    "approx": "tools/cache/VACSEM/Circuit2Cnf/input/mult12\\mult12.blif",
+    "exact": "tools/cache/VACSEM/Circuit2Cnf/input/mult12\\mult12.blif",
+    "output_bits": 24,
+    "n_pi": null,
+    "set": "scalability"
+  },
+  {
+    "id": "mult15",
+    "family": "mult15",
+    "approx": "tools/cache/VACSEM/Circuit2Cnf/input/mult15\\mult15.blif",
+    "exact": "tools/cache/VACSEM/Circuit2Cnf/input/mult15\\mult15.blif",
+    "output_bits": 30,
+    "n_pi": null,
+    "set": "scalability"
+  },
+  {
+    "id": "mult16_new",
+    "family": "mult16-new",
+    "approx": "tools/cache/VACSEM/Circuit2Cnf/input/mult16-new\\mult16-new.blif",
+    "exact": "tools/cache/VACSEM/Circuit2Cnf/input/mult16-new\\mult16-new.blif",
+    "output_bits": 32,
+    "n_pi": null,
+    "set": "scalability"
+  },
+  {
+    "id": "mac",
+    "family": "mac",
+    "approx": "tools/cache/VACSEM/Circuit2Cnf/input/mac\\mac.blif",
+    "exact": "tools/cache/VACSEM/Circuit2Cnf/input/mac\\mac.blif",
+    "output_bits": 17,
+    "n_pi": null,
+    "set": "scalability"
+  }
+]

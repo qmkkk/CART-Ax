@@ -1,0 +1,8 @@
+{
+  "job_id": "w16_family_Rnew_ER",
+  "status": "DONE",
+  "ts": "2026-10-07 21:11:32",
+  "runtime_s": 19.267,
+  "result_sha256": "a93399695c49c99c06e57f3e7ab1623120d6d6aa76ecc6f09310b997d56a0d43",
+  "result_path": "formal/results/w16_family_Rnew_ER.json"
+}

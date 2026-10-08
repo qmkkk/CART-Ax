@@ -1,0 +1,16 @@
+{
+  "campaign_version": "C7_FORMAL_v1",
+  "tasks_total": 1950,
+  "tasks_terminal": 1950,
+  "by_status": {
+    "PASS": 1664,
+    "TIMEOUT": 25,
+    "ERROR": 0,
+    "RUNNING": 0,
+    "PENDING": 0,
+    "SKIPPED_DEPENDENCY": 18,
+    "NOT_RUN_RESOURCE_LIMIT": 243
+  },
+  "note": "256-bit NOT_RUN_RESOURCE_LIMIT tasks were stopped by the global wall-clock budget (see formal_experiment_report.md); 8-192 is the complete formal campaign",
+  "manifest_hash": "68051b9f8e18006a5b9cf97eedaa1c06b609f72033507e3e7fae1e890e2f4109"
+}

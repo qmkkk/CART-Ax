@@ -1,0 +1,8 @@
+{
+  "job_id": "w64_family_D0D4_ER",
+  "status": "DONE",
+  "ts": "2026-10-07 21:29:32",
+  "runtime_s": 43.335,
+  "result_sha256": "2df8fa35cc0f4b6d515a2a13346fe3336938ef06054fc1e6b34cde9ad1f3c0e8",
+  "result_path": "formal/results/w64_family_D0D4_ER.json"
+}

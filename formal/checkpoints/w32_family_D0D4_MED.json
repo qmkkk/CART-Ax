@@ -1,0 +1,8 @@
+{
+  "job_id": "w32_family_D0D4_MED",
+  "status": "DONE",
+  "ts": "2026-10-07 21:19:09",
+  "runtime_s": 40.83,
+  "result_sha256": "c8eedf7a9533f86efea8c849f53fd6cd5e9a352a378bfe876c1dd4d1b37b9b72",
+  "result_path": "formal/results/w32_family_D0D4_MED.json"
+}

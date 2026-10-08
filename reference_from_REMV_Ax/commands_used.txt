@@ -1,0 +1,12 @@
+COMMANDS USED (final frozen flow)
+Formal run:       .venv\Scripts\python.exe src\python\c7_formal_campaign.py
+Resume:           .venv\Scripts\python.exe src\python\c7_formal_campaign.py --resume
+Rollup:           .venv\Scripts\python.exe src\python\c7_formal_campaign.py --rollup
+Manifest:         .venv\Scripts\python.exe src\python\c7_formal_manifest.py
+Tables:           .venv\Scripts\python.exe src\python\c7_clean_tables.py
+Ground truth:     .venv\Scripts\python.exe src\python\c5_ground_truth.py
+Ranking:          .venv\Scripts\python.exe src\python\c5_ranking.py
+d4 compile:       ./d4 -dDNNF <cnf> -out=<nnf>   (WSL, from tools/cache/d4)
+Ganak reference:  ./ganak_linux/ganak --mode 1 --prob 0 <file>.wmc
+Yosys (add12):    yosys -p "read_verilog f.v; synth -top t; write_blif f.blif"
+Plotting:         .venv\Scripts\python.exe figures\plotting_scripts\make_plots.py

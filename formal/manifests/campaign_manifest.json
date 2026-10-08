@@ -1,0 +1,42 @@
+{
+  "campaign": "FORMAL_EXPERIMENT_CAMPAIGN_V1",
+  "version": "v1",
+  "benchmark": {
+    "source": "VACSEM miter BLIF",
+    "commit": "b11ede7",
+    "selection": "deterministic equal-interval (frozen REMV-Ax manifest)",
+    "manifest_file": "formal/manifests/wide_benchmark_manifest.json",
+    "manifest_sha256": "4d3a3ef9326ace32db83b3805b0ca829791411b76db53af32c93cb29b58e058e"
+  },
+  "paths": [
+    "D0D1",
+    "D0D2",
+    "D0D3",
+    "D0D4",
+    "D0D5",
+    "Rnew"
+  ],
+  "metrics": [
+    "ER",
+    "MED"
+  ],
+  "widths": {
+    "16": "COMPLETE",
+    "32": "PENDING",
+    "64": "PENDING"
+  },
+  "jobs": {
+    "total": 252,
+    "done": 252,
+    "failed": 0,
+    "pending": 0
+  },
+  "frozen_12bit_sentinel": {
+    "status": "PASS",
+    "root": "0.30362688378573942...",
+    "pairs": 28,
+    "transition_pairs": 1,
+    "regimes": 2
+  },
+  "hotfix": "FORMAL_ROOT_ORDERING_HOTFIX: certified rational-interval root ordering (T1-T8 PASS)"
+}

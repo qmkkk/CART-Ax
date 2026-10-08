@@ -1,0 +1,16 @@
+C7 clean-release derived-layer repair, 2026-10-04
+
+Changed: derived CSV rollups, plotting inputs/scripts, prose summaries, and
+rollup-only source-code logic.
+Unchanged: frozen manifest/protocol, primary ER/MED/timing/scalability data,
+formal task outcomes, benchmark selection, solver/backend settings.
+
+Primary corrections:
+- break-even row-order bug;
+- conventional medians;
+- numeric width sorting;
+- 256 supplementary flag;
+- ranking narrative;
+- README task-count wording;
+- exact ER file row-count wording;
+- vector-only plotting output.

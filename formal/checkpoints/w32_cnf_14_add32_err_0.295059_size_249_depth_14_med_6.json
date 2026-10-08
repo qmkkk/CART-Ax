@@ -1,0 +1,8 @@
+{
+  "job_id": "w32_cnf_14_add32_err_0.295059_size_249_depth_14_med_6",
+  "status": "DONE",
+  "ts": "2026-10-07 12:10:58",
+  "runtime_s": 0.053,
+  "result_sha256": "f9ad4e084da515a01eed39ceee73723982a3de940216eeda1a14636bd5fc8e42",
+  "result_path": "formal/results/w32_cnf_14_add32_err_0.295059_size_249_depth_14_med_6.json"
+}

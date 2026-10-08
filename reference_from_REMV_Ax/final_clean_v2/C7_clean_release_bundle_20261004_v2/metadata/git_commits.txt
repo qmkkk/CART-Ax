@@ -1,0 +1,7 @@
+REPO COMMITS (none of these repositories were modified locally)
+- VACSEM: b11ede7
+- Ganak: e8f5184 (repo HEAD at acquisition; v2.7.0 binary)
+- d4: 333370cc1e843dd0749c1efe88516e72b5239174
+- EvoApproxLib: ec28be83bfce1b8e8b92bd456be520d323a568b5
+- (project itself is not a git repository)
+Third-party source modifications: NONE (see audit_metadata/third_party_patches).

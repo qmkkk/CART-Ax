@@ -1,0 +1,52 @@
+{
+  "campaign": "C7_FORMAL",
+  "version": "v1",
+  "manifest_hash": "68051b9f8e18006a5b9cf97eedaa1c06b609f72033507e3e7fae1e890e2f4109",
+  "config_hash": "1bbf36b5acfd94bbd895bd925a12f0a814d3fb5a6fab2427f407b529473292bf",
+  "timeout_s": 180,
+  "k_values": [
+    16,
+    64
+  ],
+  "distributions": [
+    "D0",
+    "D1",
+    "D2",
+    "D3",
+    "D4",
+    "D5"
+  ],
+  "random_distributions": [
+    "R0",
+    "R1",
+    "R2",
+    "R3",
+    "R4",
+    "R5",
+    "R6",
+    "R7",
+    "R8",
+    "R9"
+  ],
+  "random_seed": 42,
+  "probability_pool": [
+    "1/8",
+    "1/4",
+    "1/2",
+    "3/4",
+    "7/8"
+  ],
+  "backend": "full-variable/full-Tseitin CNF -> official d4 d-DNNF -> exact rational PI reweighting (aux literals neutral)",
+  "semantic_reference": "Ganak exact projected weighted model counting (v2.7.0); GANAK_TIMEOUT recorded when > timeout",
+  "med_bit_ordering": "numeric",
+  "ranking": "within-width family, Kendall tau-b + strict inversions",
+  "timing": {
+    "cold": "fresh compile + one-time parse/build + K evaluations",
+    "warm": "K evaluations on the loaded representation",
+    "marginal": "warm / K",
+    "serial_latency": true,
+    "no_cache_as_fresh": true,
+    "no_concurrent_ganak_for_latency": true
+  },
+  "checkpoint_resume": "atomic per-task writes; max loss one atomic task; resume never re-runs terminal tasks"
+}

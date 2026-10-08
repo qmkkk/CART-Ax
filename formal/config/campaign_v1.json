@@ -1,0 +1,64 @@
+{
+  "name": "FORMAL_EXPERIMENT_CAMPAIGN_V1",
+  "version": "v1",
+  "benchmark": "VACSEM miter BLIF (commit b11ede7), frozen REMV-Ax miter assets",
+  "selection": "deterministic equal-interval (frozen REMV-Ax formal manifest)",
+  "widths": [
+    16,
+    32,
+    64
+  ],
+  "designs_16": [
+    "10_add16_err_0.566452_size_105_depth_13",
+    "1_add16_err_0.00215149_size_143_depth_16",
+    "2_add16_err_0.0311737_size_138_depth_13",
+    "3_add16_err_0.0585022_size_127_depth_13",
+    "4_add16_err_0.125626_size_123_depth_13",
+    "5_add16_err_0.204422_size_119_depth_13",
+    "6_add16_err_0.298309_size_116_depth_13",
+    "7_add16_err_0.386383_size_113_depth_13",
+    "8_add16_err_0.458023_size_110_depth_13",
+    "9_add16_err_0.507919_size_108_depth_13"
+  ],
+  "paths": [
+    "D0D1",
+    "D0D2",
+    "D0D3",
+    "D0D4",
+    "D0D5",
+    "Rnew"
+  ],
+  "metrics": [
+    "ER",
+    "MED"
+  ],
+  "timeout_s": {
+    "cnf": 300,
+    "poly": 300,
+    "family": 900
+  },
+  "designs_32": [
+    "10_add32_err_0.197418_size_259_depth_14",
+    "11_add32_err_0.223526_size_257_depth_14",
+    "12_add32_err_0.25061_size_254_depth_14",
+    "14_add32_err_0.295059_size_249_depth_14",
+    "1_add32_err_0_size_310_depth_20",
+    "3_add32_err_0.00389099_size_290_depth_17",
+    "4_add32_err_0.0318451_size_286_depth_17",
+    "5_add32_err_0.0593414_size_282_depth_17",
+    "7_add32_err_0.114944_size_273_depth_17",
+    "8_add32_err_0.14183_size_268_depth_17"
+  ],
+  "designs_64": [
+    "10_add64_err_0.0665131_size_574_depth_22",
+    "11_add64_err_0.0929413_size_571_depth_22",
+    "1_add64_err_0_size_630_depth_22",
+    "2_add64_err_1.52588e-05_size_616_depth_22",
+    "3_add64_err_0.00190735_size_612_depth_22",
+    "4_add64_err_0.00386047_size_605_depth_22",
+    "5_add64_err_0.0058136_size_596_depth_22",
+    "6_add64_err_0.00787354_size_594_depth_22",
+    "7_add64_err_0.0100861_size_585_depth_22",
+    "8_add64_err_0.0155334_size_581_depth_22"
+  ]
+}

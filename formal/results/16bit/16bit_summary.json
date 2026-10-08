@@ -1,0 +1,225 @@
+{
+  "families": [
+    {
+      "width": 16,
+      "path": "D0D1",
+      "metric": "ER",
+      "n_designs": 10,
+      "n_pairs": 45,
+      "n_transition_pairs": 0,
+      "n_distinct_transition_points": 0,
+      "n_touching_points": 0,
+      "n_endpoint_root_pairs": 0,
+      "n_stable_intervals": 1,
+      "multi_flip_pairs": "[]",
+      "n_identical_pairs": 0,
+      "t_total_s": 40.324
+    },
+    {
+      "width": 16,
+      "path": "D0D1",
+      "metric": "MED",
+      "n_designs": 10,
+      "n_pairs": 45,
+      "n_transition_pairs": 9,
+      "n_distinct_transition_points": 9,
+      "n_touching_points": 0,
+      "n_endpoint_root_pairs": 6,
+      "n_stable_intervals": 10,
+      "multi_flip_pairs": "[]",
+      "n_identical_pairs": 0,
+      "t_total_s": 41.982
+    },
+    {
+      "width": 16,
+      "path": "D0D2",
+      "metric": "ER",
+      "n_designs": 10,
+      "n_pairs": 45,
+      "n_transition_pairs": 0,
+      "n_distinct_transition_points": 0,
+      "n_touching_points": 0,
+      "n_endpoint_root_pairs": 0,
+      "n_stable_intervals": 1,
+      "multi_flip_pairs": "[]",
+      "n_identical_pairs": 0,
+      "t_total_s": 39.24
+    },
+    {
+      "width": 16,
+      "path": "D0D2",
+      "metric": "MED",
+      "n_designs": 10,
+      "n_pairs": 45,
+      "n_transition_pairs": 9,
+      "n_distinct_transition_points": 9,
+      "n_touching_points": 0,
+      "n_endpoint_root_pairs": 6,
+      "n_stable_intervals": 10,
+      "multi_flip_pairs": "[]",
+      "n_identical_pairs": 0,
+      "t_total_s": 40.108
+    },
+    {
+      "width": 16,
+      "path": "D0D3",
+      "metric": "ER",
+      "n_designs": 10,
+      "n_pairs": 45,
+      "n_transition_pairs": 0,
+      "n_distinct_transition_points": 0,
+      "n_touching_points": 0,
+      "n_endpoint_root_pairs": 0,
+      "n_stable_intervals": 1,
+      "multi_flip_pairs": "[]",
+      "n_identical_pairs": 0,
+      "t_total_s": 27.618
+    },
+    {
+      "width": 16,
+      "path": "D0D3",
+      "metric": "MED",
+      "n_designs": 10,
+      "n_pairs": 45,
+      "n_transition_pairs": 6,
+      "n_distinct_transition_points": 6,
+      "n_touching_points": 0,
+      "n_endpoint_root_pairs": 6,
+      "n_stable_intervals": 7,
+      "multi_flip_pairs": "[]",
+      "n_identical_pairs": 0,
+      "t_total_s": 27.861
+    },
+    {
+      "width": 16,
+      "path": "D0D4",
+      "metric": "ER",
+      "n_designs": 10,
+      "n_pairs": 45,
+      "n_transition_pairs": 0,
+      "n_distinct_transition_points": 0,
+      "n_touching_points": 0,
+      "n_endpoint_root_pairs": 0,
+      "n_stable_intervals": 1,
+      "multi_flip_pairs": "[]",
+      "n_identical_pairs": 0,
+      "t_total_s": 35.845
+    },
+    {
+      "width": 16,
+      "path": "D0D4",
+      "metric": "MED",
+      "n_designs": 10,
+      "n_pairs": 45,
+      "n_transition_pairs": 14,
+      "n_distinct_transition_points": 14,
+      "n_touching_points": 0,
+      "n_endpoint_root_pairs": 6,
+      "n_stable_intervals": 15,
+      "multi_flip_pairs": "[]",
+      "n_identical_pairs": 0,
+      "t_total_s": 22.244
+    },
+    {
+      "width": 16,
+      "path": "D0D5",
+      "metric": "ER",
+      "n_designs": 10,
+      "n_pairs": 45,
+      "n_transition_pairs": 0,
+      "n_distinct_transition_points": 0,
+      "n_touching_points": 0,
+      "n_endpoint_root_pairs": 0,
+      "n_stable_intervals": 1,
+      "multi_flip_pairs": "[]",
+      "n_identical_pairs": 0,
+      "t_total_s": 37.051
+    },
+    {
+      "width": 16,
+      "path": "D0D5",
+      "metric": "MED",
+      "n_designs": 10,
+      "n_pairs": 45,
+      "n_transition_pairs": 14,
+      "n_distinct_transition_points": 14,
+      "n_touching_points": 0,
+      "n_endpoint_root_pairs": 6,
+      "n_stable_intervals": 15,
+      "multi_flip_pairs": "[]",
+      "n_identical_pairs": 0,
+      "t_total_s": 23.303
+    },
+    {
+      "width": 16,
+      "path": "Rnew",
+      "metric": "ER",
+      "n_designs": 10,
+      "n_pairs": 45,
+      "n_transition_pairs": 0,
+      "n_distinct_transition_points": 0,
+      "n_touching_points": 0,
+      "n_endpoint_root_pairs": 0,
+      "n_stable_intervals": 1,
+      "multi_flip_pairs": "[]",
+      "n_identical_pairs": 0,
+      "t_total_s": 19.267
+    },
+    {
+      "width": 16,
+      "path": "Rnew",
+      "metric": "MED",
+      "n_designs": 10,
+      "n_pairs": 45,
+      "n_transition_pairs": 13,
+      "n_distinct_transition_points": 13,
+      "n_touching_points": 0,
+      "n_endpoint_root_pairs": 0,
+      "n_stable_intervals": 14,
+      "multi_flip_pairs": "[]",
+      "n_identical_pairs": 0,
+      "t_total_s": 18.993
+    }
+  ],
+  "corrected_stats": {
+    "endpoint_tie_pairs": 6,
+    "stable_intervals_by_metric": {
+      "ER": 6,
+      "MED": 71
+    },
+    "transitions_by_metric": {
+      "ER": 0,
+      "MED": 65
+    },
+    "distinct_points_totals": {
+      "ER": 0,
+      "MED": 65
+    },
+    "multi_flip_totals": 0,
+    "top1_switching": [
+      {
+        "path": "Rnew",
+        "metric": "MED",
+        "seq": [
+          "1_add16_err_0.00215149_size_143_depth_16",
+          "1_add16_err_0.00215149_size_143_depth_16",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13",
+          "3_add16_err_0.0585022_size_127_depth_13"
+        ],
+        "switch_at": [
+          2
+        ]
+      }
+    ]
+  }
+}

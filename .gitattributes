@@ -1,0 +1,3 @@
+# Store every file byte-exact: frozen scientific data must not be altered by
+# line-ending normalization on any platform.
+* -text

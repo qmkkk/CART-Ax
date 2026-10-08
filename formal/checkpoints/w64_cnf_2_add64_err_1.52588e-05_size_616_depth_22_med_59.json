@@ -1,0 +1,8 @@
+{
+  "job_id": "w64_cnf_2_add64_err_1.52588e-05_size_616_depth_22_med_59",
+  "status": "DONE",
+  "ts": "2026-10-07 16:06:45",
+  "runtime_s": 0.017,
+  "result_sha256": "d046c71b19a387ce75adbe86f1d21054ffa29f79f5e8cd79f6387901f6cc1dd1",
+  "result_path": "formal/results/w64_cnf_2_add64_err_1.52588e-05_size_616_depth_22_med_59.json"
+}

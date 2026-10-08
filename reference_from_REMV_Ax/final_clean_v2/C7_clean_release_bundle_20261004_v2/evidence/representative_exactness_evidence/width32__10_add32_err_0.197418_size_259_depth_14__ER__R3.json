@@ -1,0 +1,14 @@
+{
+  "task_id": "width32__10_add32_err_0.197418_size_259_depth_14__ER__R3",
+  "status": "PASS",
+  "distribution": "R3",
+  "ganak_value": "1631455084761316066108136544695/10141204801825835211973625643008",
+  "ganak_runtime_s": 0.33,
+  "ganak_timeout": false,
+  "ganak_internal_s": 0.18,
+  "ganak_error": "",
+  "d4_value": "1631455084761316066108136544695/10141204801825835211973625643008",
+  "d4_eval_s": 0.0141,
+  "d4_nnf_missing": false,
+  "match": true
+}

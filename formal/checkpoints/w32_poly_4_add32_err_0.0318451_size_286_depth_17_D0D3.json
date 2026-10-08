@@ -1,0 +1,8 @@
+{
+  "job_id": "w32_poly_4_add32_err_0.0318451_size_286_depth_17_D0D3",
+  "status": "DONE",
+  "ts": "2026-10-07 12:12:30",
+  "runtime_s": 0.077,
+  "result_sha256": "7e01c1370af1788e47fc2bcef039b0ac9d545dfc6dd37a1ef0b5c13513cfbfb3",
+  "result_path": "formal/results/w32_poly_4_add32_err_0.0318451_size_286_depth_17_D0D3.json"
+}

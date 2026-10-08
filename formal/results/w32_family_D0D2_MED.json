@@ -1,0 +1,752 @@
+{
+  "metric": "MED",
+  "n_designs": 10,
+  "n_pairs": 45,
+  "n_transition_pairs": 13,
+  "n_distinct_transition_points": 13,
+  "distinct_transition_points": [
+    "1889/5310",
+    "1483/4134",
+    "1733270876638155025063594853617/4827966153212983072106584473600",
+    "577776872355608833261292295503/1609322051070994357368861491200",
+    "1733335372761791382861038881393/4827966153212983072106584473600",
+    "15961/19320",
+    "1681/2030",
+    "900540391746710239251881645955/1079483714256851599712036323328",
+    "45967/55094",
+    "23231/27830",
+    "12921/15470",
+    "6019/7140",
+    "1407/1628"
+  ],
+  "distinct_transition_info": [
+    {
+      "point": "1889/5310",
+      "contributing_pairs": [
+        [
+          "12_add32_err_0.25061_size_254_depth_14",
+          "14_add32_err_0.295059_size_249_depth_14",
+          1
+        ]
+      ]
+    },
+    {
+      "point": "1483/4134",
+      "contributing_pairs": [
+        [
+          "11_add32_err_0.223526_size_257_depth_14",
+          "14_add32_err_0.295059_size_249_depth_14",
+          1
+        ]
+      ]
+    },
+    {
+      "point": "1733270876638155025063594853617/4827966153212983072106584473600",
+      "contributing_pairs": [
+        [
+          "10_add32_err_0.197418_size_259_depth_14",
+          "14_add32_err_0.295059_size_249_depth_14",
+          1
+        ]
+      ]
+    },
+    {
+      "point": "577776872355608833261292295503/1609322051070994357368861491200",
+      "contributing_pairs": [
+        [
+          "14_add32_err_0.295059_size_249_depth_14",
+          "8_add32_err_0.14183_size_268_depth_17",
+          1
+        ]
+      ]
+    },
+    {
+      "point": "1733335372761791382861038881393/4827966153212983072106584473600",
+      "contributing_pairs": [
+        [
+          "14_add32_err_0.295059_size_249_depth_14",
+          "7_add32_err_0.114944_size_273_depth_17",
+          1
+        ]
+      ]
+    },
+    {
+      "point": "15961/19320",
+      "contributing_pairs": [
+        [
+          "10_add32_err_0.197418_size_259_depth_14",
+          "11_add32_err_0.223526_size_257_depth_14",
+          1
+        ]
+      ]
+    },
+    {
+      "point": "1681/2030",
+      "contributing_pairs": [
+        [
+          "11_add32_err_0.223526_size_257_depth_14",
+          "8_add32_err_0.14183_size_268_depth_17",
+          1
+        ]
+      ]
+    },
+    {
+      "point": "900540391746710239251881645955/1079483714256851599712036323328",
+      "contributing_pairs": [
+        [
+          "10_add32_err_0.197418_size_259_depth_14",
+          "12_add32_err_0.25061_size_254_depth_14",
+          1
+        ]
+      ]
+    },
+    {
+      "point": "45967/55094",
+      "contributing_pairs": [
+        [
+          "12_add32_err_0.25061_size_254_depth_14",
+          "8_add32_err_0.14183_size_268_depth_17",
+          1
+        ]
+      ]
+    },
+    {
+      "point": "23231/27830",
+      "contributing_pairs": [
+        [
+          "11_add32_err_0.223526_size_257_depth_14",
+          "12_add32_err_0.25061_size_254_depth_14",
+          1
+        ]
+      ]
+    },
+    {
+      "point": "12921/15470",
+      "contributing_pairs": [
+        [
+          "12_add32_err_0.25061_size_254_depth_14",
+          "7_add32_err_0.114944_size_273_depth_17",
+          1
+        ]
+      ]
+    },
+    {
+      "point": "6019/7140",
+      "contributing_pairs": [
+        [
+          "11_add32_err_0.223526_size_257_depth_14",
+          "7_add32_err_0.114944_size_273_depth_17",
+          1
+        ]
+      ]
+    },
+    {
+      "point": "1407/1628",
+      "contributing_pairs": [
+        [
+          "10_add32_err_0.197418_size_259_depth_14",
+          "8_add32_err_0.14183_size_268_depth_17",
+          1
+        ]
+      ]
+    }
+  ],
+  "sort_stats": {
+    "refines": 4,
+    "gcd_equal_checks": 4,
+    "exact_fallback": 0,
+    "close_pairs": 0,
+    "sort_passes": 5
+  },
+  "touching_points": {},
+  "n_touching_points": 0,
+  "endpoint_roots": {
+    "1_add32_err_0_size_310_depth_20|3_add32_err_0.00389099_size_290_depth_17": [
+      "0"
+    ],
+    "1_add32_err_0_size_310_depth_20|4_add32_err_0.0318451_size_286_depth_17": [
+      "0"
+    ],
+    "1_add32_err_0_size_310_depth_20|5_add32_err_0.0593414_size_282_depth_17": [
+      "0"
+    ],
+    "3_add32_err_0.00389099_size_290_depth_17|4_add32_err_0.0318451_size_286_depth_17": [
+      "0"
+    ],
+    "3_add32_err_0.00389099_size_290_depth_17|5_add32_err_0.0593414_size_282_depth_17": [
+      "0"
+    ],
+    "4_add32_err_0.0318451_size_286_depth_17|5_add32_err_0.0593414_size_282_depth_17": [
+      "0"
+    ],
+    "7_add32_err_0.114944_size_273_depth_17|8_add32_err_0.14183_size_268_depth_17": [
+      "0"
+    ]
+  },
+  "multi_flip_pairs": [],
+  "n_stable_intervals": 14,
+  "regimes": [
+    {
+      "interval": [
+        "0",
+        "1889/5310"
+      ],
+      "test_lambda": "8/45",
+      "ranking": [
+        [
+          "1_add32_err_0_size_310_depth_20"
+        ],
+        [
+          "3_add32_err_0.00389099_size_290_depth_17"
+        ],
+        [
+          "4_add32_err_0.0318451_size_286_depth_17"
+        ],
+        [
+          "5_add32_err_0.0593414_size_282_depth_17"
+        ],
+        [
+          "7_add32_err_0.114944_size_273_depth_17"
+        ],
+        [
+          "8_add32_err_0.14183_size_268_depth_17"
+        ],
+        [
+          "10_add32_err_0.197418_size_259_depth_14"
+        ],
+        [
+          "11_add32_err_0.223526_size_257_depth_14"
+        ],
+        [
+          "12_add32_err_0.25061_size_254_depth_14"
+        ],
+        [
+          "14_add32_err_0.295059_size_249_depth_14"
+        ]
+      ],
+      "n_tie_groups": 10
+    },
+    {
+      "interval": [
+        "1889/5310",
+        "1483/4134"
+      ],
+      "test_lambda": "1117/3127",
+      "ranking": [
+        [
+          "1_add32_err_0_size_310_depth_20"
+        ],
+        [
+          "3_add32_err_0.00389099_size_290_depth_17"
+        ],
+        [
+          "4_add32_err_0.0318451_size_286_depth_17"
+        ],
+        [
+          "5_add32_err_0.0593414_size_282_depth_17"
+        ],
+        [
+          "7_add32_err_0.114944_size_273_depth_17"
+        ],
+        [
+          "8_add32_err_0.14183_size_268_depth_17"
+        ],
+        [
+          "10_add32_err_0.197418_size_259_depth_14"
+        ],
+        [
+          "11_add32_err_0.223526_size_257_depth_14"
+        ],
+        [
+          "14_add32_err_0.295059_size_249_depth_14"
+        ],
+        [
+          "12_add32_err_0.25061_size_254_depth_14"
+        ]
+      ],
+      "n_tie_groups": 10
+    },
+    {
+      "interval": [
+        "1483/4134",
+        "1733270876638155025063594853617/4827966153212983072106584473600"
+      ],
+      "test_lambda": "216649183227355463120148047951/603495769151622884013323059200",
+      "ranking": [
+        [
+          "1_add32_err_0_size_310_depth_20"
+        ],
+        [
+          "3_add32_err_0.00389099_size_290_depth_17"
+        ],
+        [
+          "4_add32_err_0.0318451_size_286_depth_17"
+        ],
+        [
+          "5_add32_err_0.0593414_size_282_depth_17"
+        ],
+        [
+          "7_add32_err_0.114944_size_273_depth_17"
+        ],
+        [
+          "8_add32_err_0.14183_size_268_depth_17"
+        ],
+        [
+          "10_add32_err_0.197418_size_259_depth_14"
+        ],
+        [
+          "14_add32_err_0.295059_size_249_depth_14"
+        ],
+        [
+          "11_add32_err_0.223526_size_257_depth_14"
+        ],
+        [
+          "12_add32_err_0.25061_size_254_depth_14"
+        ]
+      ],
+      "n_tie_groups": 10
+    },
+    {
+      "interval": [
+        "1733270876638155025063594853617/4827966153212983072106584473600",
+        "577776872355608833261292295503/1609322051070994357368861491200"
+      ],
+      "test_lambda": "1733300746852490762423735870063/4827966153212983072106584473600",
+      "ranking": [
+        [
+          "1_add32_err_0_size_310_depth_20"
+        ],
+        [
+          "3_add32_err_0.00389099_size_290_depth_17"
+        ],
+        [
+          "4_add32_err_0.0318451_size_286_depth_17"
+        ],
+        [
+          "5_add32_err_0.0593414_size_282_depth_17"
+        ],
+        [
+          "7_add32_err_0.114944_size_273_depth_17"
+        ],
+        [
+          "8_add32_err_0.14183_size_268_depth_17"
+        ],
+        [
+          "14_add32_err_0.295059_size_249_depth_14"
+        ],
+        [
+          "10_add32_err_0.197418_size_259_depth_14"
+        ],
+        [
+          "11_add32_err_0.223526_size_257_depth_14"
+        ],
+        [
+          "12_add32_err_0.25061_size_254_depth_14"
+        ]
+      ],
+      "n_tie_groups": 10
+    },
+    {
+      "interval": [
+        "577776872355608833261292295503/1609322051070994357368861491200",
+        "1733335372761791382861038881393/4827966153212983072106584473600"
+      ],
+      "test_lambda": "1733332994914308941322457883951/4827966153212983072106584473600",
+      "ranking": [
+        [
+          "1_add32_err_0_size_310_depth_20"
+        ],
+        [
+          "3_add32_err_0.00389099_size_290_depth_17"
+        ],
+        [
+          "4_add32_err_0.0318451_size_286_depth_17"
+        ],
+        [
+          "5_add32_err_0.0593414_size_282_depth_17"
+        ],
+        [
+          "7_add32_err_0.114944_size_273_depth_17"
+        ],
+        [
+          "14_add32_err_0.295059_size_249_depth_14"
+        ],
+        [
+          "8_add32_err_0.14183_size_268_depth_17"
+        ],
+        [
+          "10_add32_err_0.197418_size_259_depth_14"
+        ],
+        [
+          "11_add32_err_0.223526_size_257_depth_14"
+        ],
+        [
+          "12_add32_err_0.25061_size_254_depth_14"
+        ]
+      ],
+      "n_tie_groups": 10
+    },
+    {
+      "interval": [
+        "1733335372761791382861038881393/4827966153212983072106584473600",
+        "15961/19320"
+      ],
+      "test_lambda": "65799035242283940087914499635231/111043221523898610658451442892800",
+      "ranking": [
+        [
+          "1_add32_err_0_size_310_depth_20"
+        ],
+        [
+          "3_add32_err_0.00389099_size_290_depth_17"
+        ],
+        [
+          "4_add32_err_0.0318451_size_286_depth_17"
+        ],
+        [
+          "5_add32_err_0.0593414_size_282_depth_17"
+        ],
+        [
+          "14_add32_err_0.295059_size_249_depth_14"
+        ],
+        [
+          "7_add32_err_0.114944_size_273_depth_17"
+        ],
+        [
+          "8_add32_err_0.14183_size_268_depth_17"
+        ],
+        [
+          "10_add32_err_0.197418_size_259_depth_14"
+        ],
+        [
+          "11_add32_err_0.223526_size_257_depth_14"
+        ],
+        [
+          "12_add32_err_0.25061_size_254_depth_14"
+        ]
+      ],
+      "n_tie_groups": 10
+    },
+    {
+      "interval": [
+        "15961/19320",
+        "1681/2030"
+      ],
+      "test_lambda": "20143/24360",
+      "ranking": [
+        [
+          "1_add32_err_0_size_310_depth_20"
+        ],
+        [
+          "3_add32_err_0.00389099_size_290_depth_17"
+        ],
+        [
+          "4_add32_err_0.0318451_size_286_depth_17"
+        ],
+        [
+          "5_add32_err_0.0593414_size_282_depth_17"
+        ],
+        [
+          "14_add32_err_0.295059_size_249_depth_14"
+        ],
+        [
+          "7_add32_err_0.114944_size_273_depth_17"
+        ],
+        [
+          "8_add32_err_0.14183_size_268_depth_17"
+        ],
+        [
+          "11_add32_err_0.223526_size_257_depth_14"
+        ],
+        [
+          "10_add32_err_0.197418_size_259_depth_14"
+        ],
+        [
+          "12_add32_err_0.25061_size_254_depth_14"
+        ]
+      ],
+      "n_tie_groups": 10
+    },
+    {
+      "interval": [
+        "1681/2030",
+        "900540391746710239251881645955/1079483714256851599712036323328"
+      ],
+      "test_lambda": "23558978034218833037049341619347/28336447499242354492440953487360",
+      "ranking": [
+        [
+          "1_add32_err_0_size_310_depth_20"
+        ],
+        [
+          "3_add32_err_0.00389099_size_290_depth_17"
+        ],
+        [
+          "4_add32_err_0.0318451_size_286_depth_17"
+        ],
+        [
+          "5_add32_err_0.0593414_size_282_depth_17"
+        ],
+        [
+          "14_add32_err_0.295059_size_249_depth_14"
+        ],
+        [
+          "7_add32_err_0.114944_size_273_depth_17"
+        ],
+        [
+          "11_add32_err_0.223526_size_257_depth_14"
+        ],
+        [
+          "8_add32_err_0.14183_size_268_depth_17"
+        ],
+        [
+          "10_add32_err_0.197418_size_259_depth_14"
+        ],
+        [
+          "12_add32_err_0.25061_size_254_depth_14"
+        ]
+      ],
+      "n_tie_groups": 10
+    },
+    {
+      "interval": [
+        "900540391746710239251881645955/1079483714256851599712036323328",
+        "45967/55094"
+      ],
+      "test_lambda": "456597794873115158989447679633549/547298243128223761054002415927296",
+      "ranking": [
+        [
+          "1_add32_err_0_size_310_depth_20"
+        ],
+        [
+          "3_add32_err_0.00389099_size_290_depth_17"
+        ],
+        [
+          "4_add32_err_0.0318451_size_286_depth_17"
+        ],
+        [
+          "5_add32_err_0.0593414_size_282_depth_17"
+        ],
+        [
+          "14_add32_err_0.295059_size_249_depth_14"
+        ],
+        [
+          "7_add32_err_0.114944_size_273_depth_17"
+        ],
+        [
+          "11_add32_err_0.223526_size_257_depth_14"
+        ],
+        [
+          "8_add32_err_0.14183_size_268_depth_17"
+        ],
+        [
+          "12_add32_err_0.25061_size_254_depth_14"
+        ],
+        [
+          "10_add32_err_0.197418_size_259_depth_14"
+        ]
+      ],
+      "n_tie_groups": 10
+    },
+    {
+      "interval": [
+        "45967/55094",
+        "23231/27830"
+      ],
+      "test_lambda": "32919/39446",
+      "ranking": [
+        [
+          "1_add32_err_0_size_310_depth_20"
+        ],
+        [
+          "3_add32_err_0.00389099_size_290_depth_17"
+        ],
+        [
+          "4_add32_err_0.0318451_size_286_depth_17"
+        ],
+        [
+          "5_add32_err_0.0593414_size_282_depth_17"
+        ],
+        [
+          "14_add32_err_0.295059_size_249_depth_14"
+        ],
+        [
+          "7_add32_err_0.114944_size_273_depth_17"
+        ],
+        [
+          "11_add32_err_0.223526_size_257_depth_14"
+        ],
+        [
+          "12_add32_err_0.25061_size_254_depth_14"
+        ],
+        [
+          "8_add32_err_0.14183_size_268_depth_17"
+        ],
+        [
+          "10_add32_err_0.197418_size_259_depth_14"
+        ]
+      ],
+      "n_tie_groups": 10
+    },
+    {
+      "interval": [
+        "23231/27830",
+        "12921/15470"
+      ],
+      "test_lambda": "8738/10465",
+      "ranking": [
+        [
+          "1_add32_err_0_size_310_depth_20"
+        ],
+        [
+          "3_add32_err_0.00389099_size_290_depth_17"
+        ],
+        [
+          "4_add32_err_0.0318451_size_286_depth_17"
+        ],
+        [
+          "5_add32_err_0.0593414_size_282_depth_17"
+        ],
+        [
+          "14_add32_err_0.295059_size_249_depth_14"
+        ],
+        [
+          "7_add32_err_0.114944_size_273_depth_17"
+        ],
+        [
+          "12_add32_err_0.25061_size_254_depth_14"
+        ],
+        [
+          "11_add32_err_0.223526_size_257_depth_14"
+        ],
+        [
+          "8_add32_err_0.14183_size_268_depth_17"
+        ],
+        [
+          "10_add32_err_0.197418_size_259_depth_14"
+        ]
+      ],
+      "n_tie_groups": 10
+    },
+    {
+      "interval": [
+        "12921/15470",
+        "6019/7140"
+      ],
+      "test_lambda": "1997/2380",
+      "ranking": [
+        [
+          "1_add32_err_0_size_310_depth_20"
+        ],
+        [
+          "3_add32_err_0.00389099_size_290_depth_17"
+        ],
+        [
+          "4_add32_err_0.0318451_size_286_depth_17"
+        ],
+        [
+          "5_add32_err_0.0593414_size_282_depth_17"
+        ],
+        [
+          "14_add32_err_0.295059_size_249_depth_14"
+        ],
+        [
+          "12_add32_err_0.25061_size_254_depth_14"
+        ],
+        [
+          "7_add32_err_0.114944_size_273_depth_17"
+        ],
+        [
+          "11_add32_err_0.223526_size_257_depth_14"
+        ],
+        [
+          "8_add32_err_0.14183_size_268_depth_17"
+        ],
+        [
+          "10_add32_err_0.197418_size_259_depth_14"
+        ]
+      ],
+      "n_tie_groups": 10
+    },
+    {
+      "interval": [
+        "6019/7140",
+        "1407/1628"
+      ],
+      "test_lambda": "1915/2244",
+      "ranking": [
+        [
+          "1_add32_err_0_size_310_depth_20"
+        ],
+        [
+          "3_add32_err_0.00389099_size_290_depth_17"
+        ],
+        [
+          "4_add32_err_0.0318451_size_286_depth_17"
+        ],
+        [
+          "5_add32_err_0.0593414_size_282_depth_17"
+        ],
+        [
+          "14_add32_err_0.295059_size_249_depth_14"
+        ],
+        [
+          "12_add32_err_0.25061_size_254_depth_14"
+        ],
+        [
+          "11_add32_err_0.223526_size_257_depth_14"
+        ],
+        [
+          "7_add32_err_0.114944_size_273_depth_17"
+        ],
+        [
+          "8_add32_err_0.14183_size_268_depth_17"
+        ],
+        [
+          "10_add32_err_0.197418_size_259_depth_14"
+        ]
+      ],
+      "n_tie_groups": 10
+    },
+    {
+      "interval": [
+        "1407/1628",
+        "1"
+      ],
+      "test_lambda": "69/74",
+      "ranking": [
+        [
+          "1_add32_err_0_size_310_depth_20"
+        ],
+        [
+          "3_add32_err_0.00389099_size_290_depth_17"
+        ],
+        [
+          "4_add32_err_0.0318451_size_286_depth_17"
+        ],
+        [
+          "5_add32_err_0.0593414_size_282_depth_17"
+        ],
+        [
+          "14_add32_err_0.295059_size_249_depth_14"
+        ],
+        [
+          "12_add32_err_0.25061_size_254_depth_14"
+        ],
+        [
+          "11_add32_err_0.223526_size_257_depth_14"
+        ],
+        [
+          "7_add32_err_0.114944_size_273_depth_17"
+        ],
+        [
+          "10_add32_err_0.197418_size_259_depth_14"
+        ],
+        [
+          "8_add32_err_0.14183_size_268_depth_17"
+        ]
+      ],
+      "n_tie_groups": 10
+    }
+  ],
+  "t_total_s": 60.86,
+  "runtime_s": 60.862
+}

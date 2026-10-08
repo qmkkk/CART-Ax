@@ -1,0 +1,31 @@
+{
+  "note": "semantic PI mapping of the TARGET-generated ER/MED CNF/NNF bank (tp2_cnf.py Net). DIMACS var -> semantic input. A[i] = bit i of operand A (bits 0..11 of the packed x, x = A | (B<<12)); B[i] = bit i of operand B (bits 12..23 of x).",
+  "source": "experiments/theory_probe/tp2_cnf.py (Net.lit), frozen by THEORY_FEASIBILITY_ROUND_2",
+  "n_pi": 24,
+  "pi_map": {
+    "1": "A[0]",
+    "2": "A[1]",
+    "3": "A[2]",
+    "4": "A[3]",
+    "5": "A[4]",
+    "6": "A[5]",
+    "7": "A[6]",
+    "8": "A[7]",
+    "9": "A[8]",
+    "10": "A[9]",
+    "11": "A[10]",
+    "12": "A[11]",
+    "13": "B[0]",
+    "14": "B[1]",
+    "15": "B[2]",
+    "16": "B[3]",
+    "17": "B[4]",
+    "18": "B[5]",
+    "19": "B[6]",
+    "20": "B[7]",
+    "21": "B[8]",
+    "22": "B[9]",
+    "23": "B[10]",
+    "24": "B[11]"
+  }
+}

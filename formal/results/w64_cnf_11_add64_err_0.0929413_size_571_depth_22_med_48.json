@@ -1,0 +1,10 @@
+{
+  "design": "11_add64_err_0.0929413_size_571_depth_22",
+  "kind": "med_48",
+  "width": 64,
+  "compile_s": 0.0,
+  "d4_status": "cached",
+  "nnf_bytes": 269326,
+  "nnf_sha256": "76a999e37cf165146c440724d08f0a402c26ee7fa7a461ad5f14badb1fac251a",
+  "runtime_s": 0.0
+}

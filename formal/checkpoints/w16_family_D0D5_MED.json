@@ -1,0 +1,8 @@
+{
+  "job_id": "w16_family_D0D5_MED",
+  "status": "DONE",
+  "ts": "2026-10-07 21:11:13",
+  "runtime_s": 23.303,
+  "result_sha256": "21ea55a112acc3e9f8711f3198e4659ecafa31c7ebe4e1090f642bbe7669ae8a",
+  "result_path": "formal/results/w16_family_D0D5_MED.json"
+}
